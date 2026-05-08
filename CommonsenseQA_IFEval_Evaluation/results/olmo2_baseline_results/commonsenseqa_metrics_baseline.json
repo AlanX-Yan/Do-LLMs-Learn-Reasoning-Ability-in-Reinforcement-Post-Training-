@@ -1,0 +1,8 @@
+{
+  "model": "allenai/OLMo-2-1124-7B-SFT",
+  "benchmark": "CommonsenseQA",
+  "split": "validation",
+  "num_examples": 1221,
+  "accuracy": 0.7248157248157249,
+  "parse_rate": 1.0
+}

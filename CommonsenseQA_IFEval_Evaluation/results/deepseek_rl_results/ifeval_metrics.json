@@ -1,0 +1,5 @@
+{
+  "num_examples": 300,
+  "strict_prompt_accuracy": 0.17333333333333334,
+  "strict_instruction_accuracy": 0.30043859649122806
+}

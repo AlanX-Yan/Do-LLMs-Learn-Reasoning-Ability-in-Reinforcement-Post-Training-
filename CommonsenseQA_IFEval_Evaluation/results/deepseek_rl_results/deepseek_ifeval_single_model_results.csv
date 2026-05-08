@@ -1,0 +1,2 @@
+Model,Stage,IFEval num examples,IFEval strict prompt acc,IFEval strict instruction acc
+DeepSeek-Math-7B-RL,RL / GRPO,300,0.17333333333333334,0.30043859649122806

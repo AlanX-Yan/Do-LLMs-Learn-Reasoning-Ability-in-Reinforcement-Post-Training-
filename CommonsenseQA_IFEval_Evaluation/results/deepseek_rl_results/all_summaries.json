@@ -1,0 +1,14 @@
+[
+  {
+    "model": "deepseek-ai/deepseek-math-7b-rl",
+    "display_name": "DeepSeek-Math-7B-RL",
+    "stage": "RL / GRPO",
+    "output_dir": "/content/deepseek_math_eval_results/deepseek_math_7b_rl_results",
+    "ifeval_official": {
+      "split": "train",
+      "num_examples": 300,
+      "strict_prompt_accuracy": 0.17333333333333334,
+      "strict_instruction_accuracy": 0.30043859649122806
+    }
+  }
+]

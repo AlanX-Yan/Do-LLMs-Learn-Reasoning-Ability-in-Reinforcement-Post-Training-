@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+runs/
+logs/
+wandb/
+
+data/
+*.pt
+*.pth
+*.bin
+*.ckpt
+*.safetensors
+
+.DS_Store

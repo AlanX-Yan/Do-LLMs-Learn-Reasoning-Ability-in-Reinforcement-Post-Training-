@@ -1,0 +1,9 @@
+[
+  {
+    "Model":"DeepSeek-Math-7B-RL",
+    "Stage":"RL \/ GRPO",
+    "IFEval num examples":300,
+    "IFEval strict prompt acc":0.1733333333,
+    "IFEval strict instruction acc":0.3004385965
+  }
+]

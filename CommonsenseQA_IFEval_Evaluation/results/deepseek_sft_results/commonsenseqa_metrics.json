@@ -1,0 +1,10 @@
+{
+  "model": "deepseek-ai/deepseek-math-7b-instruct",
+  "display_name": "DeepSeek-Math-7B-Instruct",
+  "stage": "SFT / Instruct",
+  "benchmark": "CommonsenseQA",
+  "split": "validation",
+  "num_examples": 500,
+  "pass_at_1_accuracy": 0.4,
+  "parse_rate": 0.932
+}

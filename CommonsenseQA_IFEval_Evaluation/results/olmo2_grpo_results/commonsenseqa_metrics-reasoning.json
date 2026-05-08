@@ -1,0 +1,10 @@
+{
+  "model_type": "Reasoning RPT",
+  "base_model": "allenai/OLMo-2-1124-7B-SFT",
+  "adapter_path": "/content/drive/MyDrive/olmo_grpo/checkpoint-450",
+  "benchmark": "CommonsenseQA",
+  "split": "validation",
+  "num_examples": 1221,
+  "accuracy": 0.6961506961506961,
+  "parse_rate": 1.0
+}

@@ -1,0 +1,23 @@
+{
+  "model_type": "Reasoning RPT",
+  "base_model": "allenai/OLMo-2-1124-7B-SFT",
+  "adapter_path": "/content/drive/MyDrive/olmo_grpo/checkpoint-450",
+  "commonsenseqa": {
+    "split": "validation",
+    "num_examples": 1221,
+    "accuracy": 0.6961506961506961,
+    "parse_rate": 1.0
+  },
+  "ifeval_official_100": {
+    "split": "train",
+    "num_examples": 100,
+    "strict_prompt_accuracy": 0.34,
+    "strict_instruction_accuracy": 0.4723926380368098
+  },
+  "ifeval_official_full_541": {
+    "split": "train",
+    "num_examples": 541,
+    "strict_prompt_accuracy": 0.3955637707948244,
+    "strict_instruction_accuracy": 0.4880095923261391
+  }
+}

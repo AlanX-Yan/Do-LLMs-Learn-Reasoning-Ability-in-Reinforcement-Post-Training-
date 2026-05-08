@@ -1,0 +1,15 @@
+{
+  "model": "allenai/OLMo-2-1124-7B-SFT",
+  "commonsenseqa": {
+    "split": "validation",
+    "num_examples": 1221,
+    "accuracy": 0.7248,
+    "parse_rate": 1.0
+  },
+  "ifeval_official": {
+    "split": "train",
+    "num_examples": 541,
+    "strict_prompt_accuracy": 0.37707948243992606,
+    "strict_instruction_accuracy": 0.473621103117506
+  }
+}

@@ -1,0 +1,2 @@
+Model,Stage,CSQA num examples,CommonsenseQA pass@1,CSQA parse rate,IFEval num examples,IFEval strict prompt acc,IFEval strict instruction acc
+DeepSeek-Math-7B-Instruct,SFT / Instruct,500,0.4,0.932,300,0.16,0.27850877192982454

@@ -1,0 +1,3502 @@
+[
+  {
+    "id": "1afa02df02c908a558b4036e80242fac",
+    "question": "A revolving door is convenient for two direction travel, but it also serves as a security measure at a what?",
+    "gold": "A",
+    "prediction": "A",
+    "raw_output": "ĠA.bankĊTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "a7ab086045575bb497933726e4e6ad28",
+    "question": "What do people aim to do at work?",
+    "gold": "A",
+    "prediction": "B",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{B}$."
+  },
+  {
+    "id": "b8c0a4703079cf661d7261a60a1bcbff",
+    "question": "Where would you find magazines along side many other printed works?",
+    "gold": "B",
+    "prediction": "B",
+    "raw_output": "B.bookstore"
+  },
+  {
+    "id": "e68fb2448fd74e402aae9982aa76e527",
+    "question": "Where are  you likely to find a hamburger?",
+    "gold": "A",
+    "prediction": "A",
+    "raw_output": "ĠA.fastfoodrestaurantĊTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "2435de612dd69f2012b9e40d6af4ce38",
+    "question": "James was looking for a good place to buy farmland.  Where might he look?",
+    "gold": "A",
+    "prediction": "C",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{C}$."
+  },
+  {
+    "id": "a4892551cb4beb279653ae52d0de4c89",
+    "question": "What island country is ferret popular?",
+    "gold": "C",
+    "prediction": "D",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{D}$."
+  },
+  {
+    "id": "118a9093a30695622363455e4d911866",
+    "question": "In what Spanish speaking North American country can you get a great cup of coffee?",
+    "gold": "B",
+    "prediction": "B",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{B}$."
+  },
+  {
+    "id": "05ea49b82e8ec519e82d6633936ab8bf",
+    "question": "What do animals do when an enemy is approaching?",
+    "gold": "D",
+    "prediction": "D",
+    "raw_output": "ĠD.Ġlistentoeachother"
+  },
+  {
+    "id": "c0c07ce781653b2a2c01871ba2bcba93",
+    "question": "Reading newspaper one of many ways to practice your what?",
+    "gold": "A",
+    "prediction": "A",
+    "raw_output": "ĠA.literacy.Readingnewspaperoneofmanywaystopracticeyour"
+  },
+  {
+    "id": "1d24f406b6828492040b405d3f35119c",
+    "question": "What do people typically do while playing guitar?",
+    "gold": "C",
+    "prediction": "E",
+    "raw_output": "ĠEĊAnswer:ĠE"
+  },
+  {
+    "id": "57f92025d860e32c4e780c0d51c1c20c",
+    "question": "What would vinyl be an odd thing to replace?",
+    "gold": "E",
+    "prediction": "B",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{B}$."
+  },
+  {
+    "id": "81eb4b2ee66edd8bc91ee944697c4e9f",
+    "question": "If you want harmony, what is something you should try to do with the world?",
+    "gold": "D",
+    "prediction": "D",
+    "raw_output": "ĠTheĠbestĠanswerĠisĠD.ĠMakeĠpeace.ĊTheĠanswerĠisĠĊD"
+  },
+  {
+    "id": "d807e7ae60976324920c8d29eb42dad6",
+    "question": "Where does a heifer's master live?",
+    "gold": "A",
+    "prediction": "B",
+    "raw_output": "ĠBĊTheĠanswerĠisĠ$\\boxed{B}$."
+  },
+  {
+    "id": "7ea9f721ffc662918bb0c0937a487f04",
+    "question": "Aside from water and nourishment what does your dog need?",
+    "gold": "D",
+    "prediction": "D",
+    "raw_output": "D.lotsofattentionĊYourĠdogĠneedsĠaĠlotĠofĠattention,ĠsoĠthe"
+  },
+  {
+    "id": "fc1d33a2301a30214523c12573f81aba",
+    "question": "Janet was watching the film because she liked what?",
+    "gold": "C",
+    "prediction": "B",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{B}$."
+  },
+  {
+    "id": "3b8e1d236f5169b6c833a994d6d9c39a",
+    "question": "What are you waiting alongside with when you're in a reception area?",
+    "gold": "D",
+    "prediction": "C",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{C}$."
+  },
+  {
+    "id": "c5c4166f2ed3c2b3517b79e6848e9ae2",
+    "question": "When drinking booze what can you do to stay busy?",
+    "gold": "D",
+    "prediction": "A",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "6dc5b2884737e66543ce65f8dc40c992",
+    "question": "A fencing thrust with a sharp sword towards a person would result in what?",
+    "gold": "E",
+    "prediction": "E",
+    "raw_output": "ĠE.puncturewoundĊTheĠanswerĠisĠ$\\boxed{E}$."
+  },
+  {
+    "id": "8af63d58cc35061dec38e5448c325988",
+    "question": "Unlike a spider and his many sight seers, people only have what?",
+    "gold": "E",
+    "prediction": "E",
+    "raw_output": "ĠE.ĠtwoĠeyesĊTheĠanswerĠisĠ$\\boxed{E}$."
+  },
+  {
+    "id": "768fb09deab56046e1565b6a2556ad5c",
+    "question": "Where do adults use glue sticks?",
+    "gold": "D",
+    "prediction": "B",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{B}$."
+  },
+  {
+    "id": "cd639cf3ff82f825ace7dd2b087562bd",
+    "question": "What could go on top of wood?",
+    "gold": "D",
+    "prediction": "A",
+    "raw_output": "ĠA.lumberyardĊTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "8d79cc5e4eea11f50fab18fdea20fd4f",
+    "question": "The artist was sitting quietly pondering, then suddenly he began to paint when what struck him?",
+    "gold": "C",
+    "prediction": "C",
+    "raw_output": "ĠC.inspiration."
+  },
+  {
+    "id": "e5ad2184e37ae88b2bf46bf6bc0ed2f4",
+    "question": "Though the thin film seemed fragile, for it's intended purpose it was actually nearly what?",
+    "gold": "D",
+    "prediction": "E",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{E}$."
+  },
+  {
+    "id": "b8b287b6277fccd4b7c9c72577177328",
+    "question": "Where could you find a toilet that only friends can use?",
+    "gold": "D",
+    "prediction": "D",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{D}$."
+  },
+  {
+    "id": "f646f3e064f06423fc25b98500796cf0",
+    "question": "What is someone who isn't clever, bright, or competent called?",
+    "gold": "E",
+    "prediction": "E",
+    "raw_output": "Theansweris\"E\".ĊTheĠanswerĠisĠ$\\boxed{E}$."
+  },
+  {
+    "id": "b0f7d7978ac41c465108a92660d70e84",
+    "question": "When wildlife reproduce we often refer to what comes out as what?",
+    "gold": "D",
+    "prediction": "D",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{D.offspring}$."
+  },
+  {
+    "id": "54075de8b8b89ecef2e4eb4eaee2713d",
+    "question": "The weasel was becoming a problem, it kept getting into the chicken eggs kept in the what?",
+    "gold": "B",
+    "prediction": "D",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{D}$."
+  },
+  {
+    "id": "65435b996ce9d1685bebb74b49c1ba7f",
+    "question": "Blue read material outside of his comfort zone because he wanted to gain what?",
+    "gold": "A",
+    "prediction": "A",
+    "raw_output": "ĠA.ĠnewperspectiveĊB.ĠentertainedĊC.ĠunderstandingĊD"
+  },
+  {
+    "id": "9889e5389917d812c09d6e5d382d333d",
+    "question": "After he got hired he hoped for success at his what?",
+    "gold": "B",
+    "prediction": "B",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{B}$."
+  },
+  {
+    "id": "a651ffa44ac5febf0aede6748899b981",
+    "question": "Committing perjury is a serious what?",
+    "gold": "B",
+    "prediction": "A",
+    "raw_output": "A.indictmentĊTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "bdcfbe2132295d437e4c5701085f19c0",
+    "question": "If you are prone to postpone work what will you have to do in order to finish on time?",
+    "gold": "B",
+    "prediction": "B",
+    "raw_output": "ĠhastenĊB"
+  },
+  {
+    "id": "8d3dc21a53523850ec80771daaa5ff20",
+    "question": "James wanted to find an old underground map from the 50s.  Where might he look for one?",
+    "gold": "A",
+    "prediction": "C",
+    "raw_output": "ĠC.ĠcountyĠengineer'sĠoffice.ĊTheĠcountyĠengineer'sĠofficeĠis"
+  },
+  {
+    "id": "a80ee7775e934c423012fe98e20ba28b",
+    "question": "Sean was in a rush to get home, but the light turned yellow and he was forced to do what?",
+    "gold": "E",
+    "prediction": "A",
+    "raw_output": "ĠSeanĠwasĠinĠaĠrushĠtoĠgetĠhome,ĠbutĠtheĠlightĠturnedĠyellowĠandĠhe"
+  },
+  {
+    "id": "48a315cfa3ce11f7a9d615bc854331d5",
+    "question": "Where would a person be doing when having to wait their turn?",
+    "gold": "D",
+    "prediction": "A",
+    "raw_output": "ĠA.ĠhaveĠpatienceĊTheĠanswerĠisĠâľħĠA.ĠhaveĠpatience"
+  },
+  {
+    "id": "4acd496cc78d96c2431279a5fd87de7c",
+    "question": "She was always helping at the senior center, it brought her what?",
+    "gold": "E",
+    "prediction": "A",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "91e0f4ab62c9d2fd440d73a3f5308d96",
+    "question": "The lock kept the steering wheel from moving, but the thief still took his chances and began to work on the what?",
+    "gold": "C",
+    "prediction": "A",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "b61e849e44db16a581f0b65e28ab95dc",
+    "question": "Who is a police officer likely to work for?",
+    "gold": "C",
+    "prediction": "A",
+    "raw_output": "AĊAĠpoliceĠofficerĠisĠlikelyĠtoĠworkĠforĠcity.ĊTheĠanswerĠis"
+  },
+  {
+    "id": "ba6bd1bdef02d0ebfe5370f92365ae18",
+    "question": "If you have leftover cake, where would you put it?",
+    "gold": "B",
+    "prediction": "A",
+    "raw_output": "ĠIfĠyouĠhaveĠleftoverĠcake,ĠwhereĠwouldĠyouĠputĠit?ĠA.ĠQuand"
+  },
+  {
+    "id": "dc55d473c22b04877b11d584f9548194",
+    "question": "A human wants to submerge himself in water, what should he use?",
+    "gold": "A",
+    "prediction": "E",
+    "raw_output": "E.puddleĊTheĠanswerĠisĠ$\\boxed{E}$."
+  },
+  {
+    "id": "113aaea2b1a27a976547f54e531d99bb",
+    "question": "Where is a doormat likely to be in front of?",
+    "gold": "B",
+    "prediction": "A",
+    "raw_output": "ĠAĊDoorwayĠisĠtheĠbestĠanswer.ĊTheĠanswerĠisĠ$\\boxed{"
+  },
+  {
+    "id": "ba640b9634ad6b4ad98b17b4f152e562",
+    "question": "Bob the lizard lives in a warm place with lots of water.  Where does he probably live?",
+    "gold": "B",
+    "prediction": "E",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{E}$."
+  },
+  {
+    "id": "750ebdf36a0b3b407be0fe2163e3700b",
+    "question": "August needed  money because he was afraid that he'd be kicked out of his house.  What did he need money to do?",
+    "gold": "B",
+    "prediction": "B",
+    "raw_output": "ĠAugustĠneededĠmoneyĠtoĠpayĠbills.ĊTheĠanswerĠisĠ$\\boxed{B}$."
+  },
+  {
+    "id": "8f01273422a370a8dbda6bf473a395a0",
+    "question": "He needed more information to fix it, so he consulted the what?",
+    "gold": "E",
+    "prediction": "E",
+    "raw_output": "ĠE.ĠmanualĊHeneededmoreinformationtofixit,soheconsult"
+  },
+  {
+    "id": "e6586bba9fe96d38792e6e6d4f2703dc",
+    "question": "Where can you put a picture frame when it's not hung vertically?",
+    "gold": "E",
+    "prediction": "B",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{B}$."
+  },
+  {
+    "id": "6e433471d0e2590b8c73ceef275022b1",
+    "question": "James knew that he shouldn't have been buying beer for minors.  He didn't even get paid for it.  Why was this bad?",
+    "gold": "D",
+    "prediction": "A",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "1bc986f8aea88d6927d8a45367855a94",
+    "question": "What is the result of applying for  job?",
+    "gold": "E",
+    "prediction": "E",
+    "raw_output": "ĠE.beingemployed"
+  },
+  {
+    "id": "8d1563697d751a364d688d6701ebdb39",
+    "question": "What must someone do before they shop?",
+    "gold": "A",
+    "prediction": "C",
+    "raw_output": "ĠC.bringcash"
+  },
+  {
+    "id": "91f512273a2da7ae796919069b20d6cf",
+    "question": "Because John was first violin, he had to bring something important to work ever day. What did he need to bring to work?",
+    "gold": "E",
+    "prediction": "D",
+    "raw_output": "ĠD.ochestraĊTheĠanswerĠisĠ$\\boxed{D}$."
+  },
+  {
+    "id": "49cda7eedbf63b3f38e59ba72f1ee1f9",
+    "question": "What is a place that usually does not have an elevator and that sometimes has a telephone book?",
+    "gold": "E",
+    "prediction": "C",
+    "raw_output": "ĠC.ĠlibraryĊTheĠanswerĠisĠ$\\boxed{C}$."
+  },
+  {
+    "id": "a588407ecaecf0f30c2241c30b470fe2",
+    "question": "Who is likely to be excited about a crab?",
+    "gold": "C",
+    "prediction": "A",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "011096bcfff30fd38046cf9db3a411c5",
+    "question": "Where can a human find clothes that aren't pants?",
+    "gold": "C",
+    "prediction": "C",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{C}$."
+  },
+  {
+    "id": "435a728f45d32faa4b3c4553c966fd6b",
+    "question": "If I was getting drunk, and people couldn't understand me, what might I be having?",
+    "gold": "B",
+    "prediction": null,
+    "raw_output": "IfIwasgettingdrunk,andpeoplecouldn'tunderstandme,what"
+  },
+  {
+    "id": "e953dee48c70159ad879143a319ec607",
+    "question": "When a person is beginning work, what are they building?",
+    "gold": "D",
+    "prediction": "C",
+    "raw_output": "ĠC.Ġworking"
+  },
+  {
+    "id": "9c784727afd7176b54764055df7a7927",
+    "question": "A child wants to play, what would they likely want?",
+    "gold": "C",
+    "prediction": "C",
+    "raw_output": "C.playtag"
+  },
+  {
+    "id": "b47d912136e3304cb5e5890b6b879551",
+    "question": "Talking to the same person about the same thing over and over again is something someone can what?",
+    "gold": "D",
+    "prediction": "D",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{D}$."
+  },
+  {
+    "id": "49b4c9e1bd7946a819e173ce8fa4c7c9",
+    "question": "The teacher doesn't tolerate noise during a test in their what?",
+    "gold": "E",
+    "prediction": "E",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{E}$."
+  },
+  {
+    "id": "950af0b765c298960ce3dada66df8db1",
+    "question": "The freeway had no traffic and few buildings, where is it?",
+    "gold": "B",
+    "prediction": null,
+    "raw_output": "ĠTheĠfreewayĠhadĠnoĠtrafficĠandĠfewĠbuildings,ĠwhereĠisĠit?ĊAnswer"
+  },
+  {
+    "id": "63cf1adb5fe302b9867ead8bc8103d0b",
+    "question": "Where would you go if you wanted to have fun with a few people?",
+    "gold": "D",
+    "prediction": "E",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{E}$."
+  },
+  {
+    "id": "ede4d302fc2ffe07703158f83c1493f2",
+    "question": "If there is a place that is hot and arid, what could it be?",
+    "gold": "B",
+    "prediction": "A",
+    "raw_output": "ĠA.ĠblandĊAnswer:ĠA"
+  },
+  {
+    "id": "74ad13a03634e79c85382f1b90969b74",
+    "question": "What is likely to satisfy someone's curiosity?",
+    "gold": "A",
+    "prediction": "A",
+    "raw_output": "ĠA.hearnewsĊTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "49e466b1782aa4837dae53ff891fcdee",
+    "question": "If you are in a bar in a glove shaped state where are you?",
+    "gold": "B",
+    "prediction": "A",
+    "raw_output": "IfĠyouĠareĠinĠaĠbarĠinĠaĠgloveshapedĠstate,ĠyouĠareĠin"
+  },
+  {
+    "id": "a8a8ae7792901c7179ff5538c701af1f",
+    "question": "Where would a computer user be using their own computer?",
+    "gold": "E",
+    "prediction": "D",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{D}$."
+  },
+  {
+    "id": "2ffa3808ce26181926990b454e429c85",
+    "question": "Crabs live in what sort of environment?",
+    "gold": "C",
+    "prediction": "A",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "4319eaa36d256a92b72445c0392f9c94",
+    "question": "Where can you find a snake in tall grass?",
+    "gold": "D",
+    "prediction": "D",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{D}$."
+  },
+  {
+    "id": "ec79ef747bb89281923edb89ba26786d",
+    "question": "What is a place that has a bench nestled in trees?",
+    "gold": "A",
+    "prediction": "A",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "2d33cde5e3987adc8fa2bca0af4dd3dd",
+    "question": "Where is a human likely to go as a result of being hungry?",
+    "gold": "A",
+    "prediction": "A",
+    "raw_output": "ĠA.eatinrestaurantĊTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "cc46d936bf69d69a3863b0cb85d75c17",
+    "question": "He was beginning to regret taking the fight when he saw how what his opponent was?",
+    "gold": "D",
+    "prediction": "A",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "46bc1a50eeead10509a43a048e01194e",
+    "question": "Where would you find a single shower curtain being used?",
+    "gold": "A",
+    "prediction": "A",
+    "raw_output": "ĠA.bathtubĊAnswer:ĠA"
+  },
+  {
+    "id": "4336a8c55b7cb17275d1c60206cd2f18",
+    "question": "Where is a good idea but not required to have a fire extinguisher?",
+    "gold": "C",
+    "prediction": "A",
+    "raw_output": "ĠA.schoolbusĊTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "a287575d3ba4b9f958536fc14a1f5b5a",
+    "question": "What continent has the most castles?",
+    "gold": "D",
+    "prediction": "E",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{E}$."
+  },
+  {
+    "id": "f481dc35b0a97a20dc5cdfe1a59746e2",
+    "question": "If you have to read a book that is very dry and long you may become what?",
+    "gold": "E",
+    "prediction": "A",
+    "raw_output": "ĠIfĠyouĠhaveĠtoĠreadĠaĠbookĠthatĠisĠveryĠdryĠandĠlong,ĠyouĠmay"
+  },
+  {
+    "id": "c1c7a9efa379b8a7024a71cf364a144c",
+    "question": "Sally used a clipboard to hold her papers while she read off names at the beginning of the day.  Where might she work?",
+    "gold": "E",
+    "prediction": "A",
+    "raw_output": "ĠSallyĠmightĠworkĠatĠtheĠdesk.ĊanswerĠisĠA."
+  },
+  {
+    "id": "821b32d39f57396979069b948030afe9",
+    "question": "The kids didn't clean up after they had done what?",
+    "gold": "D",
+    "prediction": "B",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{B}$."
+  },
+  {
+    "id": "c68b4082a6872cf8198502651d0f3352",
+    "question": "Despite the name a pawn can be quite versatile, all the parts are important in a what?",
+    "gold": "A",
+    "prediction": "B",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{B}$."
+  },
+  {
+    "id": "dd11fea36d89aa09f9a6069545ba4c9c",
+    "question": "What would not be true about a basketball if it had a hole in it but it did not lose its general shape?",
+    "gold": "C",
+    "prediction": "E",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{E}$."
+  },
+  {
+    "id": "7792b2c6518ecf9775efba6d41253312",
+    "question": "If you are awaking multiple times throughout the night because a lot is on your mind, what is a likely cause?",
+    "gold": "B",
+    "prediction": "B",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{B}$."
+  },
+  {
+    "id": "1feb4c2a0e8ed638259f5d27b16eae9a",
+    "question": "Where does a wild bird usually live?",
+    "gold": "C",
+    "prediction": "C",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{C}$."
+  },
+  {
+    "id": "2de08c7a518b7c226e19bdc8fc10ef1d",
+    "question": "Where would you expect to find white mice?",
+    "gold": "E",
+    "prediction": "D",
+    "raw_output": "D.ĊTheĠanswerĠisĠâĺºĠD."
+  },
+  {
+    "id": "ea8664e77205224154f8519f922220e1",
+    "question": "John felt that his actions were fate.   Harry said that he could have always made a different what?",
+    "gold": "B",
+    "prediction": "A",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "a64d45cecde84fdcf5f0a79805a0c6fe",
+    "question": "What could committing murder prevent someone from doing?",
+    "gold": "C",
+    "prediction": "D",
+    "raw_output": "D.guiltyconscience"
+  },
+  {
+    "id": "60e92cd2f35c345872d1a898e1718d55",
+    "question": "George didn't have a car, but he still had his two feet.   His socks were smelly and his soles were blistered, but that didn't matter.  He could still do what?",
+    "gold": "B",
+    "prediction": "C",
+    "raw_output": "ĠC.ĠStayĠstillĠisĠtheĠanswer.ĊTheĠanswerĠisĊC"
+  },
+  {
+    "id": "08f3c187908646997b9080c7e9ea7da4",
+    "question": "A crane uses many a steel cable when working a what?",
+    "gold": "D",
+    "prediction": "B",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{B}$."
+  },
+  {
+    "id": "9aff72f0c480c2b4edde45bd2e7e4870",
+    "question": "What is the main purpose of farmers?",
+    "gold": "E",
+    "prediction": "B",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{B}$."
+  },
+  {
+    "id": "fd243c96edec5b1b8520d5bfeddc6622",
+    "question": "Where can I put this penny to save for later?",
+    "gold": "A",
+    "prediction": "A",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "f5ec4fdfd0e37e733bfc1606b986f1e2",
+    "question": "Where would you put uncooked crab meat?",
+    "gold": "E",
+    "prediction": "C",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{C.tidepools}$."
+  },
+  {
+    "id": "e3c6d147f8a727d314046e70e9579ba0",
+    "question": "The man had a fear of illness, so he never visited friends who were a what?",
+    "gold": "A",
+    "prediction": "A",
+    "raw_output": "ĠTheĠmanĠhadĠaĠfearĠofĠollness,ĠsoĠheĠneverĠvisitedĠfriendsĠwho"
+  },
+  {
+    "id": "8ce13c6e08bf38d4cd4af756b661e47c",
+    "question": "Where would you put pans if you want to bring them with you?",
+    "gold": "D",
+    "prediction": "D",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{D}$."
+  },
+  {
+    "id": "0f4159e80f8dbf682819215bbf0f5b5a_1",
+    "question": "If you're remembering something, it's because of your what of it to begin with?",
+    "gold": "B",
+    "prediction": "B",
+    "raw_output": "ĠB.Ġknowing"
+  },
+  {
+    "id": "1a8b3c2a46efabcbd506f9cf70886ed0",
+    "question": "Which large land mass is home to the most monkeys?",
+    "gold": "E",
+    "prediction": "E",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{E}$."
+  },
+  {
+    "id": "db0cfd52ca6b2bbfcf26d1a898fd929b",
+    "question": "Friday was James's 5th Anniversary.  They planned on going to bed early so that they could spend a long time doing what?",
+    "gold": "C",
+    "prediction": "A",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "400fb2e196e71abb70e5b3f9aab4b9ee",
+    "question": "The teens were trying to hide that they get drink, but when they walked in the door their what gave it away?",
+    "gold": "C",
+    "prediction": "C",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{C}$."
+  },
+  {
+    "id": "3fb36127a61903029a363911a1d2b1e9_1",
+    "question": "You'll find a landing at the top of what?",
+    "gold": "C",
+    "prediction": "A",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "8494b0b95533dcedbd76ae2916c481d4",
+    "question": "Anybody could be hired in the kitchen, what was needed of them?",
+    "gold": "D",
+    "prediction": "E",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{E}$."
+  },
+  {
+    "id": "1531f1523f5fd24bbdb42c311dbf90e8",
+    "question": "Where can you find a number of wind instruments together in public?",
+    "gold": "E",
+    "prediction": "D",
+    "raw_output": "D.musicroomĊTheĠanswerĠisĠ$\\boxed{D}$."
+  },
+  {
+    "id": "716ce4404a84b42dd64e561390c4b53b",
+    "question": "A mountie got off at a subway stop.  What city might he be in?",
+    "gold": "E",
+    "prediction": "A",
+    "raw_output": "ĠAmountiegotoffatasubwaystop.Whatcitymighthebein?A"
+  },
+  {
+    "id": "5169f7ae0781b15161551de3a189ebef",
+    "question": "What do you want someone to do when you illustrate point?",
+    "gold": "E",
+    "prediction": "C",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{C}$."
+  },
+  {
+    "id": "ef22ef7aeec70aaa688720f805c1cf38",
+    "question": "Billy set aside a block of time for having fun after work. Why might he do this?",
+    "gold": "B",
+    "prediction": null,
+    "raw_output": "ĠBillysetasideablockoftimeforhavingfunafterwork.Theansweris"
+  },
+  {
+    "id": "514310637fb43a252bfadc8cbf79b277",
+    "question": "The man in the white suit was very lazy.  He did nothing useful.  Meanwhile, the ban in the blue had put in effort and was very what?",
+    "gold": "D",
+    "prediction": "B",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{B}$."
+  },
+  {
+    "id": "9370b2b0897b796dec4a40f107854c8d",
+    "question": "What would you be unable to do if you have too much greed?",
+    "gold": "B",
+    "prediction": "E",
+    "raw_output": "E.lieĊTheĠanswerĠisĠĊE"
+  },
+  {
+    "id": "49902e768c45aa41a0f9f95be81114e5",
+    "question": "It was a long trip from the farm, so he stayed in a hotel when he arrived at the what?",
+    "gold": "E",
+    "prediction": "C",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{C}$."
+  },
+  {
+    "id": "e1f90cd664a6b150291e6d8444d85c54",
+    "question": "I did not need a servant.  I was not a what?",
+    "gold": "B",
+    "prediction": "A",
+    "raw_output": "ĠIĠwasĠnotĠaĠwhat?ĊAnswerĠ:ĠA.Ġfreedom"
+  },
+  {
+    "id": "320ec9b68fdefe13d59cc8b628083790",
+    "question": "How would you get from one side of a canal to another?",
+    "gold": "D",
+    "prediction": "B",
+    "raw_output": "B.amsterdam.ĊExplanation:Amsterdameasilycrossesthe"
+  },
+  {
+    "id": "964185aed0e381853332bca1a4d91f46",
+    "question": "When learning about the world and different cultures, what is important if you are committed to eliminating preconceived notions",
+    "gold": "D",
+    "prediction": null,
+    "raw_output": "ĠWhenlearningabouttheworldanddifferentcultures,whatisimportantifyouare"
+  },
+  {
+    "id": "db8e010754c532d78635e5b7cf81a147",
+    "question": "An underrated thing about computers is how they manage workflow, at one time it was a big deal when they could first do what?",
+    "gold": "E",
+    "prediction": "A",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "998381f854f51da2a6ccde45909e5168",
+    "question": "Obstructing justice is sometimes an excuse used for police brutality which causes what in people?",
+    "gold": "D",
+    "prediction": "A",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "bc38ad28e99cff7a65771233f734a007",
+    "question": "While washing clothes they became what when caught on the sharp object?",
+    "gold": "D",
+    "prediction": "C",
+    "raw_output": "C.wetclothes"
+  },
+  {
+    "id": "e3949997bf9d02048cfa5d8dd0f287aa",
+    "question": "Seafood restaurants are used to draw tourists where?",
+    "gold": "E",
+    "prediction": "C",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{C}$."
+  },
+  {
+    "id": "a7d51b753c2113d8b2dbd0ebb5375855",
+    "question": "James's nice asked him about her grandfather. She was interested in learning about what?",
+    "gold": "A",
+    "prediction": "A",
+    "raw_output": "ĠAĊTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "3e4b326aff96e9adbb52ba18cfa877b2",
+    "question": "James looked up and saw the start twinkling in the black yonder.  He marveled the sheer number of them and the size of what?",
+    "gold": "A",
+    "prediction": "C",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{C.Ġnightsky}$."
+  },
+  {
+    "id": "5ac83e9e6fa9851ad3cccb0d57c1d88f",
+    "question": "What would encourage someone to continue playing tennis?",
+    "gold": "E",
+    "prediction": "E",
+    "raw_output": "E.ĠVictory"
+  },
+  {
+    "id": "2c0030cc14a27be2401dcfdaa501f0fc",
+    "question": "James found the sound relaxing.   It was so relaxing he almost did what despite his efforts?",
+    "gold": "C",
+    "prediction": "A",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "feb83263e6be392351db0794004efc3f",
+    "question": "What regions of a town would you have found a dime store?",
+    "gold": "C",
+    "prediction": "A",
+    "raw_output": "ĠA.commercialbuilding.ĊAnswer:ĠA"
+  },
+  {
+    "id": "80697d599280d994d8a584c95824ef1f",
+    "question": "Where might an unused chess set be stored?",
+    "gold": "E",
+    "prediction": "E",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{E}$."
+  },
+  {
+    "id": "3c1800e7dd96d37fdd3c51b9fe502342",
+    "question": "james told his son to settle down and be careful.  There were many frogs mating in the area, and James didn't want his son to do what to them?",
+    "gold": "D",
+    "prediction": "E",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{E}$."
+  },
+  {
+    "id": "4da33e6f4b789776acb1bc10195baa83",
+    "question": "A man wants air conditioning while we watches the game on Saturday, where will it likely be installed?",
+    "gold": "B",
+    "prediction": "B",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{B}$."
+  },
+  {
+    "id": "ae038e9af9d5a511ada7456b5e73b15e",
+    "question": "What could be playing a balailaika?",
+    "gold": "B",
+    "prediction": "E",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{E}$."
+  },
+  {
+    "id": "a400b9fd1e319f901471c4b42d401c52",
+    "question": "Sailors drive many different types of boats, what type of boat involves their namesake.",
+    "gold": "E",
+    "prediction": "E",
+    "raw_output": "ĠE.ĠSailboat.ĠTheĠanswerĠisĠ$\\boxed{E}$."
+  },
+  {
+    "id": "9dffd2021771e0ecddb19031acf3701b",
+    "question": "Where could a person avoid the rain?",
+    "gold": "C",
+    "prediction": "C",
+    "raw_output": "C.synagogueĊTheĠanswerĠisĠ$\\boxed{C}$."
+  },
+  {
+    "id": "3730c646fdf54472ab873aac9ff7852e",
+    "question": "Why would a person like to have a large house?",
+    "gold": "E",
+    "prediction": "A",
+    "raw_output": "ĠA.ĠhaveĠchoiceĊAnswer:ĠA"
+  },
+  {
+    "id": "175e7dcdded13d5adafaebf2264c3abd",
+    "question": "Where will a cheap book be found?",
+    "gold": "C",
+    "prediction": "A",
+    "raw_output": "ĠAĊTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "11d7db1d8e1cff2f40d4184f15cf7ae7",
+    "question": "John and James are idiots. They bought two tickets to the Falcons vs the Jets even though neither wanted to see the what?",
+    "gold": "B",
+    "prediction": "B",
+    "raw_output": "ĠB.sportingevent.TheanswerisB."
+  },
+  {
+    "id": "08db69edf0ec5848c1a53dca8fc1601a",
+    "question": "James noticed that his penis was bigger. .  How might he act toward his plastic surgeon?",
+    "gold": "C",
+    "prediction": "E",
+    "raw_output": "ĠE.ĠapatheticĠExplanation:ĠTheĠwordĠapatheticĠmeansĠnotĠinterested"
+  },
+  {
+    "id": "855ab6ba47f6311104c4d29e24ef0234",
+    "question": "Who do professors work with?",
+    "gold": "D",
+    "prediction": "C",
+    "raw_output": "CĊAnswer:ĠC"
+  },
+  {
+    "id": "7ec11eeca4221795c117943ca2639e86",
+    "question": "Colorful anemone look somewhat like what object you find on window sills?",
+    "gold": "D",
+    "prediction": "B",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{B}$."
+  },
+  {
+    "id": "e9389b08fdd17f14b148d498d6ff4dfe",
+    "question": "From where do aliens arrive?",
+    "gold": "A",
+    "prediction": "A",
+    "raw_output": "ĠFromĠwhereĠaliensĠarrive?ĠA.ĠouterĠspace.ĊTheĠanswerĠisĠ$\\boxed"
+  },
+  {
+    "id": "afa2899cc21e204fa64e63e7839e8c1e",
+    "question": "The hikers stopped to have a drink, simply put they what?",
+    "gold": "B",
+    "prediction": "A",
+    "raw_output": "ĠThehikersstoppedtohaveadrink,simplyputtheywhat?A."
+  },
+  {
+    "id": "f898eb5b789d2dc6804edba269f051f0",
+    "question": "When you get up in the morning before you begin work you should do what?",
+    "gold": "D",
+    "prediction": null,
+    "raw_output": "ĠWhenĠyouĠgetĠupĠinĠtheĠmorningĠbeforeĠyouĠbeginĠwork,ĠyouĠshouldĠdoĠis"
+  },
+  {
+    "id": "7ed7379fc51fd35a47be022f6c56ce51",
+    "question": "The kitten had nothing to dig it's claws into, so when it tried to stop it slid across what?",
+    "gold": "B",
+    "prediction": "B",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{B}$."
+  },
+  {
+    "id": "15798a23ee6952fedd6d202064069126",
+    "question": "If a person is trying to keep something in their hand what should they do?",
+    "gold": "E",
+    "prediction": null,
+    "raw_output": "Ifapersonistryingtokeepsomethingintheirhandwhatshouldthey"
+  },
+  {
+    "id": "273d0134e8ce53d4ebcf41ca7fde02af",
+    "question": "Where could you find hundreds of thousands of home?",
+    "gold": "D",
+    "prediction": "D",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{D}$."
+  },
+  {
+    "id": "2f0931adc3d0d422d9ab6264395e89d8",
+    "question": "Playing baseball is a lot like any other sport, there is always a risk of what?",
+    "gold": "D",
+    "prediction": "D",
+    "raw_output": "ĠD.injury"
+  },
+  {
+    "id": "d00d3ba777cb3889a45799d72fca0a50",
+    "question": "If I want to watch a movie without leaving my home what might I use?",
+    "gold": "C",
+    "prediction": "C",
+    "raw_output": "Theansweris$\\boxed{C}$."
+  },
+  {
+    "id": "b1f36d1c8ab7e5a28783cb38e8709c27",
+    "question": "The victim was to take stand today, they were going to do what?",
+    "gold": "A",
+    "prediction": "A",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "a5e76dd088aab4f89e2fe93f6de6e46d",
+    "question": "What does a successful dog grooming session likely to make a owner feel?",
+    "gold": "D",
+    "prediction": "D",
+    "raw_output": "D.satisfaction"
+  },
+  {
+    "id": "ac6f0e24dd6203cda43e1089dcf081d6",
+    "question": "The runner was in third place, but he pushed harder and thought he might be able to reach second.  What was beginning to do?",
+    "gold": "D",
+    "prediction": null,
+    "raw_output": "ĠTheĠrunnerĠwasĠnearĠtheĠfinishĠline,ĠsoĠheĠpushedĠharderĠtoĠreachĠsecondĠplace"
+  },
+  {
+    "id": "1ab746bcd100ccf513055fe93c61010b",
+    "question": "The tourist entered Mammoth cave, what state were they in?",
+    "gold": "B",
+    "prediction": null,
+    "raw_output": "ĠThetouristenteredMammothcave,whatstateweretheyin?"
+  },
+  {
+    "id": "af836abc58e0daf36df1d8d6830b70c5",
+    "question": "What does someone typically feel when applying for a job?",
+    "gold": "B",
+    "prediction": "A",
+    "raw_output": "ĠA.ĠhorrorĊAnswer:ĠA"
+  },
+  {
+    "id": "2ed66cfd206723a006b37599b516ad6e",
+    "question": "He was on trial for obstructing justice, during which he made a questionable comment and was also found guilty of what?",
+    "gold": "E",
+    "prediction": "E",
+    "raw_output": "ĠE.committingperjury."
+  },
+  {
+    "id": "e89a2762d578cb7bc2cc0a5b2a16d933",
+    "question": "What kind of feelings does buying presents for others create?",
+    "gold": "E",
+    "prediction": "C",
+    "raw_output": "C.likethisisthebestanswer.ĊTheĠanswerĠisĠ$\\boxed"
+  },
+  {
+    "id": "43cec0fff43a976fade9112d02b66021",
+    "question": "What green area is a marmot likely to be found in?",
+    "gold": "A",
+    "prediction": "A",
+    "raw_output": "AĊA.ĠcountrysideĊTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "30e66db11e0257a14a17108b90cd69fb",
+    "question": "Jan tested the current, and noticed that it was high.  He thought that the wires might have too much what?",
+    "gold": "D",
+    "prediction": "E",
+    "raw_output": "ĠE.ĠnowĊTheĠanswerĠisĠ$\\boxed{E}$."
+  },
+  {
+    "id": "f21ef67b31bd36a3174b6b4c7b4bbc7b",
+    "question": "What does a kindergarten teacher do before nap time?",
+    "gold": "E",
+    "prediction": "A",
+    "raw_output": "ĠA.lowerexpectationsĊTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "e476e2c8c278eaecfe1a8b884b6aeb8e",
+    "question": "Sam was a stranger.  Even so, Mark treated him like what?",
+    "gold": "B",
+    "prediction": "A",
+    "raw_output": "ĠSamĠwasĠaĠstranger,ĠbutĠMarkĠtreatedĠhimĠlikeĠaĠfriend.ĠTheĠanswerĠis"
+  },
+  {
+    "id": "191e3c676f05a11d6b2565d8c27d2001",
+    "question": "Bob's only light source was a small bulb.  There were four walls, if there was a door he couldn't see it.  What was Bob in?",
+    "gold": "A",
+    "prediction": "B",
+    "raw_output": "ĠBĊBobĠwasĠinĠaĠclosedĠroom.ĊTheĠanswerĠisĠ$\\boxed{"
+  },
+  {
+    "id": "99098375c7b651d524eebac72e358238",
+    "question": "James thought of criminal justice like a computer program.  It need to work right.   What ideas might James not like?",
+    "gold": "D",
+    "prediction": "A",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "290fac9f881a83d8bfb34355f8e71044",
+    "question": "With the card slot lit up he knew how to get started finding his balance with what?",
+    "gold": "E",
+    "prediction": null,
+    "raw_output": "ĠWiththecardslotlitupheknewhowtogetstartedfindinghisbalancewith"
+  },
+  {
+    "id": "6c36226b23377a0dd0188bf56840e22a",
+    "question": "To play sports professionally you must do what very often?",
+    "gold": "C",
+    "prediction": null,
+    "raw_output": "practice(frequently)soC"
+  },
+  {
+    "id": "aa5aa36557a5fbb93391506182f1025c",
+    "question": "Some people prefer releasing energy through work while others prefer to release it through what?",
+    "gold": "C",
+    "prediction": "B",
+    "raw_output": "ĠB.stretchĊTheĠanswerĠisĠĊB"
+  },
+  {
+    "id": "a38df3e750b1edd30f905e17af803c61",
+    "question": "What will a person going for a jog likely be wearing?",
+    "gold": "C",
+    "prediction": "D",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{D}$."
+  },
+  {
+    "id": "dba51270f789c75a2e38a5201b124d99",
+    "question": "The child pretended he was reading newspaper, he couldn't actually do it without what?",
+    "gold": "E",
+    "prediction": "C",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{C}$."
+  },
+  {
+    "id": "1be8ec824eb0c7218b6bc160fd191428",
+    "question": "Jenny enjoyed helping people.  It brought her a great deal of what?",
+    "gold": "A",
+    "prediction": "A",
+    "raw_output": "ĠJennyĠenjoyedĠhelpingĠpeople.ĠItĠbroughtĠherĠaĠgreatĠdealĠofĠA.Ġsatisfaction."
+  },
+  {
+    "id": "0e80f2afe5c4f652e8720b52d7c06c87",
+    "question": "What might someone believe in if they are cleaning clothes?",
+    "gold": "B",
+    "prediction": "B",
+    "raw_output": "BĊTheĠanswerĠisĠ$\\boxed{B}$."
+  },
+  {
+    "id": "b67971747e95ba425a5b81e0ba8d0b28",
+    "question": "Where would you find a basement that can be accessed with an elevator?",
+    "gold": "D",
+    "prediction": "E",
+    "raw_output": "E.ĊTheĠanswerĠisĠ$\\boxed{E}$."
+  },
+  {
+    "id": "fcd39cfa321728fea069a6ae4285b06f",
+    "question": "In order to learn to program from another person you can do what?",
+    "gold": "D",
+    "prediction": "A",
+    "raw_output": "A.learnhowtoĊAnswer:ĠA"
+  },
+  {
+    "id": "cb6766fb25daee911fc8e9816b98938c",
+    "question": "He was at the gym trying to build muscle, what is it called that he is trying to build muscle on?",
+    "gold": "E",
+    "prediction": "E",
+    "raw_output": "ĠE.ĠhumanĠbodyĊTheĠanswerĠisĠ$\\boxed{E}$."
+  },
+  {
+    "id": "54231f875bb7fe4d3e4afb6eae64387c",
+    "question": "What part of plants is pretty?",
+    "gold": "D",
+    "prediction": "E",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{E}$."
+  },
+  {
+    "id": "7d7f7d7a8ae3b20ca9fc0da6efe467b4",
+    "question": "The man was going fishing instead of work, what is he seeking?",
+    "gold": "B",
+    "prediction": "B",
+    "raw_output": "ĠTheĠmanĠwasĠgoingĠfishingĠinsteadĠofĠwork,ĠheĠisĠseekingĠrelaxation.ĊB"
+  },
+  {
+    "id": "31b72d4e4ae7c672c20e27e42499ec79",
+    "question": "What could you get an unsmooth pit from?",
+    "gold": "E",
+    "prediction": "A",
+    "raw_output": "ĠIfĠyouĠgetĠaĠpeachĠfromĠaĠtree,ĠyouĠwillĠgetĠanĠunsmoothĠpit"
+  },
+  {
+    "id": "26ce83b8e9a263079aa8cdbd5258d667",
+    "question": "The man tried to reply to the woman, but he had difficulty keeping track of conversations that he didn't do what to?",
+    "gold": "A",
+    "prediction": "E",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{E}$."
+  },
+  {
+    "id": "30138608d4934a75cf0911a06b021374",
+    "question": "I couldn't find anybody who recalled the event, what were they adroit at doing?",
+    "gold": "E",
+    "prediction": "D",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{D}$."
+  },
+  {
+    "id": "01abce8c4964371d85a5be2019f75827",
+    "question": "Where would you find a large dining room containing a fancy chandelier?",
+    "gold": "A",
+    "prediction": "E",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{E}$."
+  },
+  {
+    "id": "3e2222c99e11fca2ad4af2d470eb8ea2_1",
+    "question": "The extremely large cargo plane could only land at a specialized runway, these were only located at a what?",
+    "gold": "D",
+    "prediction": "D",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{D}$."
+  },
+  {
+    "id": "847dbf5b73c3e8d49bb9a36491d95e79",
+    "question": "The carpet was smelly and discouraged the league from playing there, where was this smelly carpet installed?",
+    "gold": "C",
+    "prediction": "D",
+    "raw_output": "ĠTheĠcarpetĠwasĠinstalledĠinĠtheĠchurch.ĊTheĠanswerĠisĠ$\\boxed{D"
+  },
+  {
+    "id": "fa031cff8e11e75c68d6a99ef0e5ca3a",
+    "question": "How can someone be let into a brownstone?",
+    "gold": "B",
+    "prediction": "B",
+    "raw_output": "ĠB.ring"
+  },
+  {
+    "id": "c592258c88295756833e9796e881057b",
+    "question": "Where would someone purchase an upright piano?",
+    "gold": "C",
+    "prediction": "C",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{C}$."
+  },
+  {
+    "id": "e1403a7c581bc263aea2ed8d179826d1",
+    "question": "Where would you keep an ottoman near your front door?",
+    "gold": "A",
+    "prediction": "A",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "15c38f66e811d6ed68cde931bc31d93c",
+    "question": "Diving into backyard pools can be very dangerous and can lead to serious head and what?",
+    "gold": "E",
+    "prediction": "B",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{B}$."
+  },
+  {
+    "id": "1ac54dbf6b67f27daa3d456416047584",
+    "question": "Where would one find a snake in a cage?",
+    "gold": "D",
+    "prediction": "D",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{D}$."
+  },
+  {
+    "id": "21763a65765b5405c9a54484c2e54a72",
+    "question": "Where are people likely to become impatient?",
+    "gold": "A",
+    "prediction": "A",
+    "raw_output": "ĠA.endoflineĊTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "c492b8b9754a181c924c1df19998cbc7",
+    "question": "When you fail to finish something, you failed at doing what to it",
+    "gold": "C",
+    "prediction": "C",
+    "raw_output": "Theansweris$\\boxed{C}$."
+  },
+  {
+    "id": "fff554fffa1a0adc64b8d1e21d55534b",
+    "question": "John didn't care about style.  He felt that form was less important than what?",
+    "gold": "C",
+    "prediction": null,
+    "raw_output": "ĠJohndidn'tcareaboutstyle.Hefeltthatformwas"
+  },
+  {
+    "id": "8ea5720718c0e122efa6277edb511569",
+    "question": "When you get together with friends to watch film, you might do plenty of this?",
+    "gold": "D",
+    "prediction": "D",
+    "raw_output": "D.ĠhaveĠfun"
+  },
+  {
+    "id": "23e4257a49972efd8a97672f060be1c1",
+    "question": "A supermarket is uncommon in what type of collection of shops?",
+    "gold": "A",
+    "prediction": "C",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{C}$."
+  },
+  {
+    "id": "a018d65a74b9e77d81014fd8f6d78f77",
+    "question": "Bill puts meat on the scale, where does Bill work?",
+    "gold": "D",
+    "prediction": "A",
+    "raw_output": "ĠBillĠworksĠinĠaĠmusicĠstore.ĠTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "24ceaf5c10863e73919b5f1b0f2db38e",
+    "question": "I'm having some food at my party, what will I need to serve it?",
+    "gold": "E",
+    "prediction": "C",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{C}$."
+  },
+  {
+    "id": "900492bd731f8f615ed7c08155737d44",
+    "question": "Before racers start to run they must do what at the starting line?",
+    "gold": "E",
+    "prediction": "E",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{E}$."
+  },
+  {
+    "id": "4e3f85dc92eaad4ae6bc6529d62e382c",
+    "question": "What does an actor do when they are bored of their roles?",
+    "gold": "B",
+    "prediction": "C",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{C}$."
+  },
+  {
+    "id": "fa1f17ca535c7e875f4f58510dc2f430",
+    "question": "What is a person called who doesn't have immortality?",
+    "gold": "E",
+    "prediction": "A",
+    "raw_output": "ĠA.Ġmortal"
+  },
+  {
+    "id": "76b6f0765a3b2fba71021f902142edc0",
+    "question": "Why would you be watching tv instead of doing something else?",
+    "gold": "C",
+    "prediction": "E",
+    "raw_output": "E.wastingtimeĊTheĠanswerĠisĠ$\\boxed{E}$."
+  },
+  {
+    "id": "f1368ab1d4ee05d72d555474fcd737d7",
+    "question": "If chewing food is difficult for you, what is a possible reason?",
+    "gold": "B",
+    "prediction": "A",
+    "raw_output": "ĠIfĠchewingĠfoodĠisĠdifficultĠforĠyou,ĠwhatĠisĠaĠpossibleĠreason?ĠA."
+  },
+  {
+    "id": "3dee8fc7f0a3fbf4de111b6686fca157",
+    "question": "He had to wear a tuxedo while playing the keyboard instrument, so did the other hundred members of the what?",
+    "gold": "D",
+    "prediction": "B",
+    "raw_output": "ĠB.band"
+  },
+  {
+    "id": "ea0e7771afd86a59fd9f7764b77e3fa4",
+    "question": "Where do you find the most amount of leafs?",
+    "gold": "C",
+    "prediction": "B",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{B}$."
+  },
+  {
+    "id": "2c845646032bbf27fb3904330d59d324",
+    "question": "Where can children play with animals?",
+    "gold": "E",
+    "prediction": "D",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{D}$."
+  },
+  {
+    "id": "bc08c354e5bead6863ea4a29cb8fa359",
+    "question": "What kind of tale might feature a talking weasel?",
+    "gold": "E",
+    "prediction": "E",
+    "raw_output": "ĠE.Ġchildren'sĠstoryĊTheĠanswerĠisĠ$\\boxed{E}$."
+  },
+  {
+    "id": "fb35c7aa5694bab2cde4b7257bfae003",
+    "question": "What kind of status is the bald eagle given?",
+    "gold": "C",
+    "prediction": "E",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{E}$."
+  },
+  {
+    "id": "e2a9f0041d17a9944377a91bef5e0d0d",
+    "question": "Why do most people take a quick rest during the day?",
+    "gold": "C",
+    "prediction": "C",
+    "raw_output": "C.ĊAnswer:ĠC"
+  },
+  {
+    "id": "ae56eff01d05422ddbcb26be7181356a",
+    "question": "What could suddenly stop someone when he or she is running?",
+    "gold": "B",
+    "prediction": "D",
+    "raw_output": "D.ĠExhaustionĊTheĠanswerĠisĠ$\\boxed{D}$."
+  },
+  {
+    "id": "895aa97bb84d874d71b2aed572cebfdd",
+    "question": "Where would you find a monkey in the wild?",
+    "gold": "E",
+    "prediction": "A",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "9d625e948e9c3777e7cc54ed8ffea135",
+    "question": "Where could a sloth live?",
+    "gold": "A",
+    "prediction": "E",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{E}$."
+  },
+  {
+    "id": "d107d67d525a686fbd8282314d2ea33c",
+    "question": "A gentleman is carrying equipment for golf, what is he likely to have?",
+    "gold": "A",
+    "prediction": "A",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "fee5ff19811750ad019665af7b36b3c4",
+    "question": "If you have a home with a courtyard, what's one thing you probably don't have to care for any longer?",
+    "gold": "A",
+    "prediction": "A",
+    "raw_output": "IfĠyouĠhaveĠaĠhomeĠwithĠaĠcourtyard,Ġwhat'sĠonethingĠyouĠprobably"
+  },
+  {
+    "id": "e69da59cbcf2a302e4523571eba8186b",
+    "question": "The computer was difficult for he to understand at the store, so what did she sign up for to learn more?",
+    "gold": "E",
+    "prediction": "A",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "2dd138a63b5895cf737ced793cc668e7",
+    "question": "If you take the risk buying a used car, you still hope it can what?",
+    "gold": "E",
+    "prediction": "A",
+    "raw_output": "ĠIfĠyouĠtakeĠtheĠriskĠbuyingĠaĠusedĠcar,ĠyouĠstillĠhopeĠitĠcanĠgo"
+  },
+  {
+    "id": "b33047f46db680a9b630c13e8ca115cc",
+    "question": "Dan was ditting quietly on the couch with a book in his hand.  Laurie thought that he was just focused on what he was doing, but he actually did what?",
+    "gold": "E",
+    "prediction": "C",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{C}$."
+  },
+  {
+    "id": "f20d40bc4af588223e880e0bb58b27b8",
+    "question": "What is the primary purpose of cars?",
+    "gold": "C",
+    "prediction": "C",
+    "raw_output": "C.movepeople"
+  },
+  {
+    "id": "b6b66d4519a84b8331ea55f84767e9df",
+    "question": "Alabama is full of different people, but they are all citizens of what?",
+    "gold": "A",
+    "prediction": "A",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "952cf4b2f7a434b2eeae9f4c7ed89c0a",
+    "question": "They were hoping their campaign would create a rise in awareness of the problem and hopefully do what to its effect?",
+    "gold": "E",
+    "prediction": "E",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{E}$."
+  },
+  {
+    "id": "b63e5cd88bfe75d29ff9fdc6dd97fed6",
+    "question": "What do airplanes do as they are arriving at the gate?",
+    "gold": "A",
+    "prediction": "D",
+    "raw_output": "ĠDĊTheĠanswerĠisĠ$\\boxed{D}$."
+  },
+  {
+    "id": "ec5a336080e37fbe95d72ad5f9c65ba7",
+    "question": "If a person with mental illness stops treatment what will likely happen?",
+    "gold": "C",
+    "prediction": "C",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{C}$."
+  },
+  {
+    "id": "6386bcf080633bc3eeb3317a5435b7b7",
+    "question": "The gimmicky low brow TV show was about animals when they what?",
+    "gold": "E",
+    "prediction": "E",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{E}$."
+  },
+  {
+    "id": "43ab0ff711e60d51f943bbd2cdd6515a",
+    "question": "A loud machine is irritating, but many are expected where?",
+    "gold": "E",
+    "prediction": "C",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{C}$."
+  },
+  {
+    "id": "11c4c78d61e8212f0984fd07eb22b669",
+    "question": "What part of a table would you put a ruler in?",
+    "gold": "A",
+    "prediction": "C",
+    "raw_output": "C.thebackside"
+  },
+  {
+    "id": "e61891746aa94ab57aaa754614034aef",
+    "question": "What happens if someone kisses too long?",
+    "gold": "C",
+    "prediction": "E",
+    "raw_output": "E.arousalĊTheĠanswerĠisĠ$\\boxed{E}$."
+  },
+  {
+    "id": "97da9aa4ea4b22744ec51cba49f35bfc",
+    "question": "If I have a modern light source in my living room, what is it likely to be?",
+    "gold": "C",
+    "prediction": "D",
+    "raw_output": "DĊTheĠanswerĠisĠ$\\boxed{D}$."
+  },
+  {
+    "id": "46241bc83e8d81196ae5783b2b9854a4",
+    "question": "The person saw the mess his children made, what was his following reaction?",
+    "gold": "E",
+    "prediction": null,
+    "raw_output": "ĠTheĠpersonsĠsawĠtheĠmessageĠhisĠchildrenĠmade,ĠwhatĠwasĠhisĠfollowingĠreaction?Ċ"
+  },
+  {
+    "id": "18844d3aa4e52b331b5382c8244cf4db",
+    "question": "Who might wear dark glasses indoors?",
+    "gold": "A",
+    "prediction": "D",
+    "raw_output": "DĊAnswer:ĠD"
+  },
+  {
+    "id": "056b33c7050c167b0d4348d40d169358",
+    "question": "Where would stones not be arranged in a path?",
+    "gold": "B",
+    "prediction": "A",
+    "raw_output": "ĠA.quarriesĊTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "31d7dd1d00aabe411568df3e72d5b5e0",
+    "question": "A bald eagle is likely to be found on what kind of work?",
+    "gold": "D",
+    "prediction": "E",
+    "raw_output": "E.aviary"
+  },
+  {
+    "id": "cbf3dd48b4d591fc872a53cd4b9dd3af",
+    "question": "The hostess was good at her job, she always had a smile when she would what?",
+    "gold": "C",
+    "prediction": "C",
+    "raw_output": "ĠC.ĠWelcomeĠguests"
+  },
+  {
+    "id": "60e8f1a86d4063895f340cd1e3c55f50",
+    "question": "What is likely to happen to someone who is learning?",
+    "gold": "C",
+    "prediction": "D",
+    "raw_output": "ĠD.Ġheadgrowslarger."
+  },
+  {
+    "id": "eee8cb7a0d806a62d2de24831f82e3e1",
+    "question": "The inspector was agreeing with the factory protocols, what was the status of the factory?",
+    "gold": "A",
+    "prediction": "D",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{D.Ġharmony}$."
+  },
+  {
+    "id": "9a23a7f04e63bf9f4c7dfe50c58abfd2",
+    "question": "After standing up I had to sit right back down, why would I feel like this?",
+    "gold": "C",
+    "prediction": "C",
+    "raw_output": "ĠC.ĠbalanceĊExplanation:ĠTheĠfeelingĠofĠbeingĠoutĠofĠbalanceĠisĠoftenĠdescribed"
+  },
+  {
+    "id": "e3426e4f60c142aa3d813479f79d6305",
+    "question": "Where do you go on a night out before going to the bar?",
+    "gold": "C",
+    "prediction": "A",
+    "raw_output": "ĠAĊTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "3526550b02d9594abd4fc43553010fc6",
+    "question": "The dad wanted to protect his house, where did he put his gun?",
+    "gold": "D",
+    "prediction": "E",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{E}$."
+  },
+  {
+    "id": "e567c94d88829fb07a30e3d46c02e664",
+    "question": "What instrument can be played with an air of happiness?",
+    "gold": "E",
+    "prediction": "A",
+    "raw_output": "AĊAnswerĠ&ĠExplanationĊTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "cf5a710c931779fb3dde198e0ace3b6a",
+    "question": "What to kids do for boredom on a ramp?",
+    "gold": "E",
+    "prediction": "A",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "0f2377604e628c55ba588366139396b9",
+    "question": "What animal has quills all over it?",
+    "gold": "E",
+    "prediction": "D",
+    "raw_output": "ĠD.ĊTheĠanswerĠisĠ$\\boxed{D}$."
+  },
+  {
+    "id": "ada088b7c97de80336ad043757c2db16",
+    "question": "Why would you go to an office?",
+    "gold": "A",
+    "prediction": "A",
+    "raw_output": "ĠA.workĊTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "beef0aa2058297904bb4acc1dc340c85",
+    "question": "When is the worst time for having food?",
+    "gold": "B",
+    "prediction": "E",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{E}$."
+  },
+  {
+    "id": "ba9a05bd2086c0d37733e26479d6630f",
+    "question": "If you spend all your time buying and not saving what is is likely to happen?",
+    "gold": "E",
+    "prediction": null,
+    "raw_output": "ĠIfĠyouĠspendĠallĠyourĠtimeĠbuyingĠandĠnotĠsaving,ĠwhatĠisĠlikelyĠtoĠhappen"
+  },
+  {
+    "id": "6b0bf501aa68b06ddc5ad72ac5ff68fc",
+    "question": "Though a mouse might prefer your house, you might also see him where?",
+    "gold": "C",
+    "prediction": "E",
+    "raw_output": "E.ĊTheĠanswerĠisĠĊE"
+  },
+  {
+    "id": "926298bbdd03ce96acfeb4408b888b61",
+    "question": "What is performing a type of?",
+    "gold": "B",
+    "prediction": "E",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{E}$."
+  },
+  {
+    "id": "faa0aa438b94c19be8ff52ee80d9e298",
+    "question": "The car was going from Alabama to New York, what was its goal?",
+    "gold": "A",
+    "prediction": null,
+    "raw_output": "ĠTheĠcarĠwasĠgoingĠfromĠAlabamaĠtoĠNewĠYork,ĠsoĠitsĠgoalĠwasĠtoĠgo"
+  },
+  {
+    "id": "9310c39a0752f28640c3a05cba1d5ca7",
+    "question": "What do they call the trash in Australia?",
+    "gold": "E",
+    "prediction": "E",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{E}$."
+  },
+  {
+    "id": "fee5f4e9d8e37f0183e36eb9b8dbcbb9",
+    "question": "Joan wants to cook a potato, where should she place it?",
+    "gold": "A",
+    "prediction": "B",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{B}$."
+  },
+  {
+    "id": "5392af3f1c4665e95ff3354e5115de42",
+    "question": "Writers with a great what can amass a large fortune?",
+    "gold": "D",
+    "prediction": "D",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{D}$."
+  },
+  {
+    "id": "4c5c74b3287492d6ddb2da4c8c0fd51a",
+    "question": "Where do all animals live?",
+    "gold": "C",
+    "prediction": "C",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{C}$."
+  },
+  {
+    "id": "52f3eb6c9a6b9671050fc769d465ed03",
+    "question": "How are the conditions for someone who is living in a homeless shelter?",
+    "gold": "A",
+    "prediction": "A",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "03ee30b5801b61aee791a551a9d9a49f",
+    "question": "You can do knitting to get the feeling of what?",
+    "gold": "A",
+    "prediction": "E",
+    "raw_output": "ĠE.ĠsweatermayproducedĊAnswer:ĠE"
+  },
+  {
+    "id": "6d1d483745bc0aae0f4dd04e851ceffb",
+    "question": "What might a very large table be?",
+    "gold": "B",
+    "prediction": "A",
+    "raw_output": "ĠAĊTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "bf10bfda7328c8671e15adf8546b64d7",
+    "question": "John got his tax refund back.  He treated it like it was what?",
+    "gold": "C",
+    "prediction": null,
+    "raw_output": "ĠJohngothistaxrefundback.HetreateditlikeitwasĠwhat"
+  },
+  {
+    "id": "0b3a3ee40dd25be9735ac5e3342ca4dd",
+    "question": "A person with an allergy might be doing what if they awake suddenly?",
+    "gold": "E",
+    "prediction": "E",
+    "raw_output": "E.sneezing"
+  },
+  {
+    "id": "77e2a0b469b56bea81921a4a945ffcb5",
+    "question": "Where is a ferret unlikely to be?",
+    "gold": "A",
+    "prediction": "E",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{E}$."
+  },
+  {
+    "id": "dc964e4f6df6b70815e81e466d0ff717",
+    "question": "If you jump in any of the oceans you will get?",
+    "gold": "B",
+    "prediction": "E",
+    "raw_output": "ĠIfĠyouĠjumpĠinĠanyĠofĠtheĠoceansĠyouĠwillĠgetĠE.ĊTheĠanswer"
+  },
+  {
+    "id": "6b9221c1af583ffb43580857d6fde38a",
+    "question": "Immediately after peeing, a person's bladder is what?",
+    "gold": "B",
+    "prediction": "B",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{B}$."
+  },
+  {
+    "id": "4dc2c4596b08e9bfd893174e67bff40a",
+    "question": "The lady would eat and eat, and because of mental issues would then make herself what?",
+    "gold": "D",
+    "prediction": "C",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{C}$."
+  },
+  {
+    "id": "8ae24d3ff199077a59e0d970feb665b7",
+    "question": "A car was hailed to chauffeur someone to the opera house, where was it heading?",
+    "gold": "A",
+    "prediction": "A",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "d64a676e9d22e7edd12e7f4ce267a9f0",
+    "question": "What do you go to see for live entertainment?",
+    "gold": "B",
+    "prediction": "A",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "54ecb521df1d0f5b130a393c42b4126d",
+    "question": "The teacher thought that a ferret can be very mischievous and probably wouldn't make a great pet for the entire what?",
+    "gold": "C",
+    "prediction": "A",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "b7276bb9139ec25c98c7e3822404eb6c",
+    "question": "A creek is a body of water found in what low land?",
+    "gold": "B",
+    "prediction": "E",
+    "raw_output": "Theansweris$\\boxed{E}$."
+  },
+  {
+    "id": "ecb8758b0d088f9aedc182a516dd1190",
+    "question": "If I have a pet bird, what does it likely live in?",
+    "gold": "E",
+    "prediction": "D",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{D}$."
+  },
+  {
+    "id": "f2645d0ee8662b6553954cee7e77979e",
+    "question": "Joe and Mac were playing basketball. They did it every day in their back yard.  Why were they playing basketball?",
+    "gold": "B",
+    "prediction": "B",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{B}$."
+  },
+  {
+    "id": "ea6d1a739ea841be282e13789270651e",
+    "question": "What makes someone a nomad?",
+    "gold": "C",
+    "prediction": "E",
+    "raw_output": "ĠE.ĠschizophreniaĊTheĠanswerĠisĠ$\\boxed{E}$."
+  },
+  {
+    "id": "c82ed0c2a2e115452b4d596c5faafbcf",
+    "question": "What is a treat that you dog will enjoy?",
+    "gold": "D",
+    "prediction": "E",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{E}$."
+  },
+  {
+    "id": "163d83851ecd4a4144b31b8738e4c335",
+    "question": "Women used to be expected to wear a dress but it's now acceptable for them to wear what?",
+    "gold": "B",
+    "prediction": "D",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{D}$."
+  },
+  {
+    "id": "095767956c500ca1af7cf7671556de5b",
+    "question": "The fact that Joe was able to memorize the list in spite of his apparent  state proved that part of his brain was what?",
+    "gold": "A",
+    "prediction": null,
+    "raw_output": "ĠTheĠfactĠthatĠJoeĠwasĠableĠtoĠmemorizeĠtheĠlistĠinĠspiteĠofĠhisĠapparent"
+  },
+  {
+    "id": "d31ee38f67d1173275e120b8ad36039c",
+    "question": "What is a wet person likely to do?",
+    "gold": "C",
+    "prediction": "A",
+    "raw_output": "ĠAĊTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "c410a4626dfce4b4cfd3e5937602cd77",
+    "question": "After recovering from the disease, what did the doctor call the patient?",
+    "gold": "A",
+    "prediction": "A",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "14d760e43728e9e4643c414627f2b596",
+    "question": "The painter started to edge the room with tape, he always took extra care to make the lines clean and crisp when working with an what?",
+    "gold": "E",
+    "prediction": "B",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{B}$."
+  },
+  {
+    "id": "abcf1b550b4d44f46d4f68b8e1d98ec8",
+    "question": "After high tide, where on the coast can you look to find a sea anemone?",
+    "gold": "D",
+    "prediction": "D",
+    "raw_output": "ĠTheĠcorrectĠanswerĠisĠD.ĠTheĠseaĠanemoneĠisĠfoundĠinĠtheĠinter"
+  },
+  {
+    "id": "5b8af6f26335dbd501b0104c71e26d9e",
+    "question": "What could a driving car do to a pedestrian?",
+    "gold": "B",
+    "prediction": "B",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{B}$."
+  },
+  {
+    "id": "4364b4b342fb7b44434bd6694bf8fd51",
+    "question": "People do many things to alleviate boredom.  If you can't get out of the house you might decide to do what?",
+    "gold": "D",
+    "prediction": "A",
+    "raw_output": "ĠA.playcardsĊTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "3ffe67fb009529d9b0c49ccd7141ee4a",
+    "question": "At a grocery store they sell individual potatoes, where does the grocery clerk likely put the potato?",
+    "gold": "D",
+    "prediction": "D",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{D}$."
+  },
+  {
+    "id": "f372587fa4c99d5bebf0d0eb987c44e2",
+    "question": "What room is a rubber bath mat usually kept?",
+    "gold": "E",
+    "prediction": "E",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{E}$."
+  },
+  {
+    "id": "d35a8a3bd560fdd651ecf314878ed30f",
+    "question": "What would you put meat on top of to cook it?",
+    "gold": "E",
+    "prediction": "E",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{E}$."
+  },
+  {
+    "id": "0542414710025f56b0c26e1bae5c4d06",
+    "question": "Minerals can be obtained in what way for a person who avoids leafy greens?",
+    "gold": "A",
+    "prediction": "E",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{E}$."
+  },
+  {
+    "id": "1875f70cf736c68c7a9df3ef870224a1",
+    "question": "What could you be a few hours after you finish cashing in due to your cash?",
+    "gold": "A",
+    "prediction": null,
+    "raw_output": "ĠYouĠhaveĠjustĠcashedĠinĠandĠareĠaboutĠtoĠleaveĠtheĠcasino.ĠYouĠare"
+  },
+  {
+    "id": "83250ae2dfeb2e3886ead4cde8e1290f",
+    "question": "The smelly man was having a bath, but what is he pursuing?",
+    "gold": "C",
+    "prediction": "A",
+    "raw_output": "ĠTheĠsmellyĠmanĠwashesĠhavingĠaĠbath,ĠbutĠwhatĠheĠisĠpursuingĠisĠpersonal"
+  },
+  {
+    "id": "70c39372c0d50566554fd72c768b75f6",
+    "question": "What might a couple have a lot of when they are deciding on stopping being married to each other?",
+    "gold": "E",
+    "prediction": "E",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{E}$."
+  },
+  {
+    "id": "c21ec5b367f409a0288d616f626555ae",
+    "question": "If a person is working a lot, what are they likely trying to earn?",
+    "gold": "A",
+    "prediction": "A",
+    "raw_output": "ĠA.ĠmuchĠmoney.ĠTheĠpersonĠisĠworkingĠaĠlot,ĠsoĠtheyĠareĠlikely"
+  },
+  {
+    "id": "a2cd03ed068f6d613e85f3a60f4db0a1",
+    "question": "The traveling business man was glad his credit card had perks, it offset the high prices for travel from a what?",
+    "gold": "C",
+    "prediction": null,
+    "raw_output": "ĠTheĠtravelingĠbusinessmanĠwasĠgladĠhisĠcreditĠcardĠhadĠperks,ĠitĠoffsetĠtheĠhighĠprices"
+  },
+  {
+    "id": "d2871dc28c82471e5d7f71f79e49c257",
+    "question": "Billy hated using other people's toilets. He was only comfortable on his own.  So whenever he needed to poop, he would go back to his what?",
+    "gold": "D",
+    "prediction": null,
+    "raw_output": "ĠBillyhatedusingotherpeople'stoilets.Hewasonlycomfortableon"
+  },
+  {
+    "id": "94770e75c4e2000e717b4218ddff19e8",
+    "question": "The forest experienced a cold winter, where is it located?",
+    "gold": "D",
+    "prediction": "A",
+    "raw_output": "ĠTheforestexperiencedacoldwinter,whereisitlocated?A.earthB"
+  },
+  {
+    "id": "08ad17d3ca1838b8724d21cf5921ec52",
+    "question": "How can you let someone know about your anger without hurting him or her?",
+    "gold": "D",
+    "prediction": "E",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{E}$."
+  },
+  {
+    "id": "21fb76bd8349628b441c76f47c33e77b",
+    "question": "Where is one likely to find a brownstone?",
+    "gold": "A",
+    "prediction": "C",
+    "raw_output": "C.ring"
+  },
+  {
+    "id": "e151b44e0a7bf08a1dd3c861eef09161",
+    "question": "What may I place the telephone on?",
+    "gold": "C",
+    "prediction": "C",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{C}$."
+  },
+  {
+    "id": "46351b3a6beb694c5f623583a3b1473d",
+    "question": "What language type is someone from Iran likely to use?",
+    "gold": "B",
+    "prediction": "E",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{E}$."
+  },
+  {
+    "id": "db75e16788cf56d5dfb9773eaf91fe7e",
+    "question": "John went to a party that lasted all night.  Because of this, he didn't have time for what?",
+    "gold": "E",
+    "prediction": "A",
+    "raw_output": "ĠJohnĠwentĠtoĠaĠpartyĠthatĠlastedĠallĠnight.ĠThisĠmeansĠheĠdidĠnotĠhave"
+  },
+  {
+    "id": "ffd89796a9b09bef56c5803f188764c6",
+    "question": "The child wasn't allowed in the kitchen but still wanted to help, what could it do to help in the dining room?",
+    "gold": "A",
+    "prediction": null,
+    "raw_output": "ĠTheĠchildĠwasn'tĠallowedĠinĠtheĠkitchenĠbutĠstillĠwantedĠtoĠhelp,Ġwhat"
+  },
+  {
+    "id": "5622e49306bb82ec1cec817ad0506c60",
+    "question": "He was having a hard time expressing himself in a healthy way, the psychologist said he was mentally what?",
+    "gold": "C",
+    "prediction": "E",
+    "raw_output": "ĠE.ĠfunĊTheĠanswerĠisĠ$\\boxed{E}$."
+  },
+  {
+    "id": "6efaeb796307036719635242fa5ad0f3",
+    "question": "When someone is physically competing what does their body do?",
+    "gold": "E",
+    "prediction": "B",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{B}$."
+  },
+  {
+    "id": "114d310d1198abffaf8b88dab5a55aa7",
+    "question": "How would you express information to a deaf person?",
+    "gold": "C",
+    "prediction": "A",
+    "raw_output": "ĠA.summarizemainpointsĊTheĠanswerĠisĠ$\\boxed{A"
+  },
+  {
+    "id": "0f79faf5337706f2e0e39c15bbd2e99a",
+    "question": "Printing on a printer can get expensive because it does what?",
+    "gold": "B",
+    "prediction": "D",
+    "raw_output": "ĠTheĠcorrectĠanswerĠis:ĠD.Ġqueue"
+  },
+  {
+    "id": "b62d7d1b5eec31be0b65146a9fc069e0",
+    "question": "What will god never do according to religion?",
+    "gold": "B",
+    "prediction": "B",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{B}$."
+  },
+  {
+    "id": "1342c6aec9f5179d6ea6fa5fefbe5188",
+    "question": "One of the potential hazards of attending school is what?",
+    "gold": "D",
+    "prediction": "C",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{C}$."
+  },
+  {
+    "id": "c74ae684ba6c76e2a913493483678c9d",
+    "question": "What has a surface with many sides?",
+    "gold": "A",
+    "prediction": "A",
+    "raw_output": "ĠA.tetrahedronĊTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "411e50225637b76187cc36b24fe3127c",
+    "question": "What could bring a container from one place to another?",
+    "gold": "C",
+    "prediction": "C",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{C}$."
+  },
+  {
+    "id": "2a0e82bbf1471290c93c8f2a11af197f",
+    "question": "The old style pop ups literally let you see the story when you did what?",
+    "gold": "C",
+    "prediction": null,
+    "raw_output": "ĠTheoldstylepopupsliterallyletyouseethestorywhenyoud"
+  },
+  {
+    "id": "eaadd7a4b18cb48c00f85c3975750fe7",
+    "question": "What is it called when you are talking to someone?",
+    "gold": "A",
+    "prediction": "A",
+    "raw_output": "ĠA.communicationĊTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "403c9b067ef7363efffa822bb08c5426",
+    "question": "The family finished dinner, the child's chore was to load the dirty dishes where?",
+    "gold": "B",
+    "prediction": "B",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{B}$."
+  },
+  {
+    "id": "adf228312401c9ff421a4da1b46bb70a",
+    "question": "Where could you find a bureau as well as many politicians?",
+    "gold": "E",
+    "prediction": "E",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{E}$."
+  },
+  {
+    "id": "57c85e4c7ea2501ef9d8f304b524e2e4",
+    "question": "Dad wanted to hide the check in his office, where did he put it?",
+    "gold": "B",
+    "prediction": "B",
+    "raw_output": "ĠDadĠputĠtheĠcheckĠinĠtheĠdeskĠdrawer.ĠTheĠanswerĠisĠ$\\boxed{B"
+  },
+  {
+    "id": "c22f30eee57f7191ee07e9a916460f68",
+    "question": "For some reason she was devoid of regular emotions, buying products was the only way she could feel what?",
+    "gold": "A",
+    "prediction": "C",
+    "raw_output": "ĠC.debtĠisĠtheĠanswer.ĊAnswer:ĠC"
+  },
+  {
+    "id": "026cb9c07a583ec933f2c4c67ae73836",
+    "question": "Where are horses judged on appearance?",
+    "gold": "B",
+    "prediction": "B",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{B}$."
+  },
+  {
+    "id": "c57ed32566a2db1ec3d6e4fd595b9d05",
+    "question": "Why do people read non fiction?",
+    "gold": "C",
+    "prediction": "D",
+    "raw_output": "ĠD.ĠbecomingĠabsorbed"
+  },
+  {
+    "id": "93b52e7ea1acf10db891e9355e234123",
+    "question": "While knitting you can do what using a radio?",
+    "gold": "A",
+    "prediction": "A",
+    "raw_output": "ĠWhileknittingyoucandowhatusingaradio?A.listentomus"
+  },
+  {
+    "id": "dbdad44029098d4b1d202d6d857d6092",
+    "question": "Where are you likely to set papers while working on them?",
+    "gold": "A",
+    "prediction": "A",
+    "raw_output": "ĠA.tableĊTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "69d0f70c173dda17934836d618ca7093",
+    "question": "John had a massive debt to 50 million dollars.  Compared to that, Leo's 2000 dollar debt seemed what?",
+    "gold": "C",
+    "prediction": "B",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{B}$."
+  },
+  {
+    "id": "e5697a25935c5249d2108f55e245f3e4",
+    "question": "The man flew his airplane over the city and saw pollution visibly in the sky, what was polluted?",
+    "gold": "C",
+    "prediction": "C",
+    "raw_output": "ĠC.air"
+  },
+  {
+    "id": "99af85081085e6228c6d78c95be01968",
+    "question": "What is a very unlikely side effect of becoming inebriated?",
+    "gold": "E",
+    "prediction": "C",
+    "raw_output": "C.staggeringĊTheĠanswerĠisĠ$\\boxed{C}$."
+  },
+  {
+    "id": "235094c966bcbdc94701b41b969f9c75",
+    "question": "when communicating with my boss what should i do",
+    "gold": "B",
+    "prediction": "A",
+    "raw_output": "ĠA.ĊAnswer:ĠA"
+  },
+  {
+    "id": "99789083502af9bf111876a00fae44ac",
+    "question": "If not in a stream but in a market where will you find fish?",
+    "gold": "C",
+    "prediction": "E",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{E}$."
+  },
+  {
+    "id": "1d44fb5f4b7f1e23ff6c1c083db81ba1",
+    "question": "What are people likely to want to do with their friends?",
+    "gold": "E",
+    "prediction": "C",
+    "raw_output": "ĠC.ĠtalkĠtoĠeachĠother"
+  },
+  {
+    "id": "194b66240f6fab75749c1e30ed09ea09",
+    "question": "During a shark filled tornado where should you not be?",
+    "gold": "E",
+    "prediction": "C",
+    "raw_output": "C.noodlehouse"
+  },
+  {
+    "id": "83dad4fe630fddbdcd5b18ef890c66f2",
+    "question": "What is the likely result of buying products in excess?",
+    "gold": "E",
+    "prediction": "E",
+    "raw_output": "ĠE.Ġoverstocking"
+  },
+  {
+    "id": "3ebc5ddd2e97fe37fcb52aa2a9e2e1a7",
+    "question": "What is a person trying to accomplish when taking analgesics?",
+    "gold": "B",
+    "prediction": "B",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{B}$."
+  },
+  {
+    "id": "9ed019338a48216de9eadf64faaf1ce0",
+    "question": "Where would you put a glass after drinking from it?",
+    "gold": "D",
+    "prediction": "A",
+    "raw_output": "ĠAĊTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "d1d2585e0ba1160948b7c5822a99b7a1",
+    "question": "Where would you buy food?",
+    "gold": "B",
+    "prediction": "E",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{E}$."
+  },
+  {
+    "id": "e34a0d1331c6bd4574ffe308e3fbd389",
+    "question": "When a person admits his mistakes, what are they doing?",
+    "gold": "E",
+    "prediction": "D",
+    "raw_output": "D.ĠfeelĠrelievedĊAnswer:ĠD"
+  },
+  {
+    "id": "4858669d0193e5d9384dc37d4bb5c00c",
+    "question": "Where do play a game for money?",
+    "gold": "A",
+    "prediction": "A",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "8fd82cdc253835814153fe7222e9967c",
+    "question": "When you travel you should what in case of unexpected costs?",
+    "gold": "E",
+    "prediction": "A",
+    "raw_output": "A.gosomewhere"
+  },
+  {
+    "id": "66458bf8599c3ef1e7b50fa527531882",
+    "question": "Donald is a prominent figure for the federal government, so in what city does he likely spend a lot of time?",
+    "gold": "E",
+    "prediction": "D",
+    "raw_output": "ĠD.ĠCanada.ĊTheĠanswerĠisĠ$\\boxed{D}$."
+  },
+  {
+    "id": "879239b8a788f3c9e3dfdd0862f3d7c5",
+    "question": "There was more than one bum asking for change or a ticket, it was the cheapest way to travel so it was no surprise sight at the what?",
+    "gold": "C",
+    "prediction": "B",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{B}$."
+  },
+  {
+    "id": "8a69e6df5e8ad6c9e6828aa66c59d046",
+    "question": "John and Joe like planning games but Joe  was hit by a ball and fell down. What might have happened to Joe.",
+    "gold": "D",
+    "prediction": "D",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{D}$."
+  },
+  {
+    "id": "8d275acea05fd16295c659c504576a9b",
+    "question": "Where can you buy jeans at one of may indoor merchants?",
+    "gold": "B",
+    "prediction": "B",
+    "raw_output": "ĠB.shoppingmall.ĊTheĠanswerĠisĠ$\\boxed{B}$."
+  },
+  {
+    "id": "91629c6f9e4af3e6acf385eb23fd8068",
+    "question": "What do you write letter in in America?",
+    "gold": "D",
+    "prediction": "C",
+    "raw_output": "Theansweris$\\boxed{C}$."
+  },
+  {
+    "id": "59eb56f366407ac7db72996be265883b",
+    "question": "Joe owned back taxes as well as what other type of taxes?",
+    "gold": "E",
+    "prediction": "B",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{B.front}$."
+  },
+  {
+    "id": "4ab069f2e979d51f2c5929f590d09982",
+    "question": "Where is a broadcast studio likely to be heard?",
+    "gold": "C",
+    "prediction": "A",
+    "raw_output": "ĠBroadcastĠstudiosĠareĠusuallyĠlocatedĠnearĠaĠmicrophone,ĠsinceĠthisĠisĠwhereĠtheĠsoundĠis"
+  },
+  {
+    "id": "d6bb990e8c409d2b3af37a2da198e01f",
+    "question": "Kramer wrote a self-referential book.  What might that book be about?",
+    "gold": "B",
+    "prediction": "A",
+    "raw_output": "ĠAĊTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "c5ad166ab5c5f5f067aa02b20f482523",
+    "question": "Of all the sports, Billy enjoys football, but what does his concerned mother think of the sport?",
+    "gold": "E",
+    "prediction": null,
+    "raw_output": "Billyenjoysfootball,butwhatdoeshisconcernedmotherthinkofthes"
+  },
+  {
+    "id": "ceafca2445b1b974d085a8cce38e8e44",
+    "question": "What city will likely have many parking structures?",
+    "gold": "A",
+    "prediction": "A",
+    "raw_output": "ĠA.ĠchicagoĊTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "2ef2ae21a2d3a9ecbd5c45ff378d10e3",
+    "question": "Sally was afraid of danger and always double checked what?",
+    "gold": "D",
+    "prediction": "C",
+    "raw_output": "ĠSallywasafraidofdangerandalwaysdoublecheckedwhat?C.beingsafe"
+  },
+  {
+    "id": "793672da43fbc609e8c5760630c7e239",
+    "question": "What is the habitat of the fox?",
+    "gold": "E",
+    "prediction": "B",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{B}$."
+  },
+  {
+    "id": "558cb0bc25387ce38d71f64ef6f1fa57",
+    "question": "People are very much like the animals, but one thing has secured or dominance over the planet.  We're better at doing what?",
+    "gold": "B",
+    "prediction": "B",
+    "raw_output": "ĠTheĠbestĠanswerĠisĠB.ĊTheĠanswerĠisĠ$\\boxed{B}$."
+  },
+  {
+    "id": "2c9f4a98ce774cd734b6e384d95051a7",
+    "question": "They children loved having a back yard, and the parents loved that it was a safe what?",
+    "gold": "B",
+    "prediction": "B",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{B}$."
+  },
+  {
+    "id": "33c84708785f88c19737ef5b0e31a64b",
+    "question": "While people just throw coins down them now, what originally had a pail to be lowered for it's intended use?",
+    "gold": "D",
+    "prediction": "D",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{D}$."
+  },
+  {
+    "id": "d867f76d000bdb59b9b4cb982bd7f0a0",
+    "question": "Joe was thrown from his boat into the water.  The water was cold because it was the middle of winter and he cried out to his crew for help.  They couldn't hear him over the sound of the what?",
+    "gold": "D",
+    "prediction": "B",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{B}$."
+  },
+  {
+    "id": "8c607d2e2e897d74048fcc794137b683",
+    "question": "When a human is earning money, where are they often found?",
+    "gold": "D",
+    "prediction": "D",
+    "raw_output": "DĊTheĠanswerĠisĠ$\\boxed{D}$."
+  },
+  {
+    "id": "5215e26c99b2a9b376fb1c70096a388a",
+    "question": "They passed a apple tree on their way to the racetrack, the were going to watch the biggest motorsport spectacle in the world where?",
+    "gold": "B",
+    "prediction": "E",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{E}$."
+  },
+  {
+    "id": "668dc6bce771b10cbf6336f3ec76520a",
+    "question": "Why do people play chess on the weekends?",
+    "gold": "B",
+    "prediction": "B",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{B}$."
+  },
+  {
+    "id": "a339fe08f1f50463ee180b797e99ebcc",
+    "question": "What do you need energy to do in gym class?",
+    "gold": "D",
+    "prediction": "D",
+    "raw_output": "D.playsports"
+  },
+  {
+    "id": "526cd34f5b2afefbbb7830434785f298",
+    "question": "Sarah dropped the marble because she wanted to do what?",
+    "gold": "A",
+    "prediction": "A",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "6c1c1c282cebe8917f607f0dbc1c102e",
+    "question": "We are all human, and we all what?",
+    "gold": "E",
+    "prediction": "D",
+    "raw_output": "ĠWeĠareĠallĠhuman,ĠandĠweĠallĠwhat?ĊAnswer:ĠD.Ġthink"
+  },
+  {
+    "id": "b5baf77d3855935c87f01f5fb2216667",
+    "question": "If a person were going to bed, what would be their goal?",
+    "gold": "D",
+    "prediction": null,
+    "raw_output": "Thegoalofgoingtobedistorestingandfallingasleep,sothe"
+  },
+  {
+    "id": "83808e92381b2e5f4cdf55d1391645ae",
+    "question": "What are candles good for eliminating?",
+    "gold": "E",
+    "prediction": "E",
+    "raw_output": "Candlesaregoodforeliminatingdarkness.TheanswerisE.ĊAnswer"
+  },
+  {
+    "id": "1a86310d7279097205a3403752c3b914",
+    "question": "WHat leads to an early death?",
+    "gold": "B",
+    "prediction": "E",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{E}$."
+  },
+  {
+    "id": "b4130d1790948134f3aeab9d3d79c181",
+    "question": "What room would you find many bookcases and is used for contemplation?",
+    "gold": "A",
+    "prediction": "A",
+    "raw_output": "ĠA.studyĊTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "a5097b7f56d20217679f28201801476f",
+    "question": "Where do you head to travel to a star?",
+    "gold": "C",
+    "prediction": "C",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{C}$."
+  },
+  {
+    "id": "bcc5dd6292a64d8fa17cd07c360b335d",
+    "question": "The player lifted his cornet and walked in rhythm, what was the player a member of?",
+    "gold": "C",
+    "prediction": null,
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{marchingband}$."
+  },
+  {
+    "id": "cfc7fccb8449a2a950c9d2a50991420e",
+    "question": "What happens at soon as a living being is born?",
+    "gold": "B",
+    "prediction": "E",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{E}$."
+  },
+  {
+    "id": "2e83c5989a018bec6d5f5ac7d3b72f49",
+    "question": "When someone is talking and you missed something, what can you do to get them to repeat it?",
+    "gold": "B",
+    "prediction": "B",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{B}$."
+  },
+  {
+    "id": "34b2d6aecdb5af8efacf0b0aa7e3989f",
+    "question": "Where does one store fabric in their own home?",
+    "gold": "A",
+    "prediction": "A",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "2ec7f8fe7948f9997e73f9bff7ba6e05",
+    "question": "What do most companies not want to have relative to demand?",
+    "gold": "A",
+    "prediction": "A",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "651785ed4f7b0bd2e7ca9f70a42acea5",
+    "question": "What is happening while he's playing basketball for such a long time?",
+    "gold": "A",
+    "prediction": "C",
+    "raw_output": "C.havingfun"
+  },
+  {
+    "id": "ee46995407eb6357bb5410d49d378629",
+    "question": "A traveler laments the fact that mass transit is limited in his city when his groceries get soaked by the rain as he waits where?",
+    "gold": "A",
+    "prediction": "D",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{D}$."
+  },
+  {
+    "id": "303aedda3a5ab8d853cbe4edc4b914c6",
+    "question": "The person was in physical distress, where should he go?",
+    "gold": "C",
+    "prediction": "C",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{C}$."
+  },
+  {
+    "id": "720b98fbc365736597147c984f6bd301",
+    "question": "The cancer patient was expecting to die, so he made out his what?",
+    "gold": "B",
+    "prediction": "A",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "c611875b43b67b91030b889b267bbcb3",
+    "question": "There was a toll road that meandered from Maine to New Hampshire, where was it?",
+    "gold": "B",
+    "prediction": "D",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{D}$."
+  },
+  {
+    "id": "0547da29ffab9b441bae8870cd0f9dab",
+    "question": "If you partied all night you could find yourself already what, even when just beginning work?",
+    "gold": "A",
+    "prediction": "C",
+    "raw_output": "ĠIfĠyouĠpartiedĠallĠnightĠyouĠcouldĠfindĠyourselfĠalreadyĠC.Ġprocrastination,"
+  },
+  {
+    "id": "21e312c7fd1a52341ce35b66457eab36",
+    "question": "The cat carefully navigated the area, they do everything they can to avoid what?",
+    "gold": "A",
+    "prediction": "C",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{C}$."
+  },
+  {
+    "id": "82e26bc22af89c38d54aa2d00dcb8a2b",
+    "question": "What is someone usually doing if someone else is talking to him or her?",
+    "gold": "A",
+    "prediction": "A",
+    "raw_output": "A.listening"
+  },
+  {
+    "id": "f75357e48c3026cfa4da3dba9f91bb21",
+    "question": "What does the sky do before a rain?",
+    "gold": "E",
+    "prediction": "B",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{B}$."
+  },
+  {
+    "id": "64931f9097155672bfe3e16f03b2c195",
+    "question": "Pens, computers, text books and paper clips can all be found where?",
+    "gold": "B",
+    "prediction": "B",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{B}$."
+  },
+  {
+    "id": "5de3248caa2e5ed83dd0ec45a15eae18",
+    "question": "What geographic area is a lizard likely to be?",
+    "gold": "B",
+    "prediction": "C",
+    "raw_output": "C.aridregionsisaridregions,whichisaridregion,"
+  },
+  {
+    "id": "0611dfbf5114084723d75f59b4f67412",
+    "question": "What do you use to carry your briefcase?",
+    "gold": "E",
+    "prediction": "C",
+    "raw_output": "ĠC.ĊTheĠanswerĠisĠ$\\boxed{C}$."
+  },
+  {
+    "id": "5b8d76889510384b38b72945e8d28f53",
+    "question": "He picked up his pace to a run, he wanted to do what?",
+    "gold": "E",
+    "prediction": "E",
+    "raw_output": "ĠEĊAnswer:ĠE"
+  },
+  {
+    "id": "d81f5c49bc060dc799681bf4cacac73a",
+    "question": "What would a person do if they do not have any friends?",
+    "gold": "D",
+    "prediction": "D",
+    "raw_output": "ĠD.ĊStandalone.ĊTheĠanswerĠisĠ$\\boxed{D}$."
+  },
+  {
+    "id": "aaf4fa38433c84b3bd0a86551259ce62",
+    "question": "As a result of dying, what happens to organic material?",
+    "gold": "D",
+    "prediction": "A",
+    "raw_output": "ĠAsĠaĠresultĠofĠdying,ĠorganicĠmaterialĠstopsĠbreathing.ĊTheĠanswerĠisĠ$\\"
+  },
+  {
+    "id": "33ea932a876ac0361c9eefeff1d24e92",
+    "question": "What does everyone have in relation to other people?",
+    "gold": "A",
+    "prediction": "D",
+    "raw_output": "ĠD.differentstandardsĊAnswer:ĠD"
+  },
+  {
+    "id": "aead08289ca9abfcd169f935ea228ee5",
+    "question": "What do you ask a child to do when you first meet her?",
+    "gold": "D",
+    "prediction": "D",
+    "raw_output": "D.statenameĊAnswer:ĠD"
+  },
+  {
+    "id": "adbddc80b10bf25f09c6c2bee4e3c59b",
+    "question": "Where can you buy a clock, clothing and wrenches?",
+    "gold": "E",
+    "prediction": "E",
+    "raw_output": "E.departmentstoreĊAnswer:ĠE."
+  },
+  {
+    "id": "1caf93d6a22dc8190e19c14bbe1fafda",
+    "question": "What do you do when you're in a new place and want to see new things?",
+    "gold": "B",
+    "prediction": "B",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{B}$."
+  },
+  {
+    "id": "0bf4d64ad0eee7224acb3a4eb85accb2",
+    "question": "What happens when to ice when it is in the sun?",
+    "gold": "B",
+    "prediction": "B",
+    "raw_output": "ĠB.meltedĊTheĠanswerĠisĠ$\\boxed{B}$."
+  },
+  {
+    "id": "b93532cae23e505628dd88568da3337e",
+    "question": "Where can you store your dishes in your dwelling?",
+    "gold": "B",
+    "prediction": "C",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{C}$."
+  },
+  {
+    "id": "2d3c9d3dff1a7a8253180cb3de1ceeea",
+    "question": "The man laid on the soft moss and looked up at the trees, where was the man?",
+    "gold": "B",
+    "prediction": null,
+    "raw_output": "ĠTheĠmanĠlaidĠonĠtheĠsoftĠmossĠandĠlookedĠupĠatĠtheĠtrees,ĠwhereĠwast"
+  },
+  {
+    "id": "70701f5d1d62e58d5c74e2e303bb4065",
+    "question": "What is someone doing if he or she is sitting quietly and his or her eyes are moving?",
+    "gold": "A",
+    "prediction": "B",
+    "raw_output": "BĊTheĠanswerĠisĠ$\\boxed{B}$."
+  },
+  {
+    "id": "eacd87f297193033669a93160ae3776f",
+    "question": "Where can I find a stapler in many places?",
+    "gold": "B",
+    "prediction": "D",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{D}$."
+  },
+  {
+    "id": "8e1b0792e441a5d54ae47a4b24f48977",
+    "question": "A man takes a seat at a museum outside of Barcelona, where is he likely?",
+    "gold": "B",
+    "prediction": "A",
+    "raw_output": "AĊTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "b4cde6a56fb19afc84876ebf2fb9e71a",
+    "question": "Where would you find a toy soldier that is being played with?",
+    "gold": "C",
+    "prediction": "D",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{D}$."
+  },
+  {
+    "id": "095c5bc5fbaf12b384e9f7df47fdec16",
+    "question": "Where are you when you're about to use your plane ticket?",
+    "gold": "C",
+    "prediction": "C",
+    "raw_output": "ĠC.airport.TheanswerisC."
+  },
+  {
+    "id": "494c501dbbfd36c602aae9e5b8e0cfff",
+    "question": "Flowers make a good center focal point, just one of many arrangements that look good on a what?",
+    "gold": "B",
+    "prediction": "E",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{E}$."
+  },
+  {
+    "id": "5a7f6fd97b2c9ad05f773bc8b2ecf441",
+    "question": "How can a human cross a river and not mess up their hair?",
+    "gold": "D",
+    "prediction": "A",
+    "raw_output": "WisconsinĊAnswer:ĠA"
+  },
+  {
+    "id": "5279a2ea333ba8a5bf3a7637a7279da1",
+    "question": "Batman bought beer.  There were no bottles available.  He had to settle for what?.",
+    "gold": "D",
+    "prediction": "B",
+    "raw_output": "BĊTheĠanswerĠisĠ$\\boxed{B}$."
+  },
+  {
+    "id": "42c46e28baf0fc617a07419286178c0a",
+    "question": "You can find a monkey in what West African region on the Gulf of Guinea",
+    "gold": "E",
+    "prediction": "E",
+    "raw_output": "ĠE.ĊTheĠanswerĠisĠ$\\boxed{E}$."
+  },
+  {
+    "id": "c76304b4962f94ab9f20f09cf4a1a7c1",
+    "question": "Surprising an angry person could lead to what?",
+    "gold": "B",
+    "prediction": "B",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{B}$."
+  },
+  {
+    "id": "8b23cd355ffc8b6e7aa5459ffb21b4e0",
+    "question": "Where is a dining area likely to be small?",
+    "gold": "B",
+    "prediction": "A",
+    "raw_output": "ĠA.cruiseshipĊTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "c35f7de9e9005fcf654cb0b23f17acd6",
+    "question": "Killing people should not cause what emotion?",
+    "gold": "C",
+    "prediction": "E",
+    "raw_output": "ĠTheĠbestĠanswerĠisĠE."
+  },
+  {
+    "id": "d910859b9d1acae40456dbeaa8334bc0",
+    "question": "James slamed into someone playing football, and not for the first time.  He was concerned about the consequences of many what?",
+    "gold": "C",
+    "prediction": "E",
+    "raw_output": "ĠE.ĠhavingĠfunĊTheĠanswerĠisĠ$\\boxed{E}$."
+  },
+  {
+    "id": "6ca8439d062de4d43d7d471c508b78db",
+    "question": "More people should lower the guard and just have fun, we don't got long just what?",
+    "gold": "A",
+    "prediction": "C",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{C}$."
+  },
+  {
+    "id": "ddd8c62ec94b4f94eeefdd05b9208a71",
+    "question": "Where can you get a lizard to keep in your home?",
+    "gold": "C",
+    "prediction": "D",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{D}$."
+  },
+  {
+    "id": "72b638200414a526b598de0e01a044df",
+    "question": "What would use a musical instrument?",
+    "gold": "C",
+    "prediction": "A",
+    "raw_output": "ĠA.ĠguitarĊTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "c770870c88f35f9d110217049c5a7334",
+    "question": "She was in an affair, what did that end upon discovery by her husband?",
+    "gold": "B",
+    "prediction": "E",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{E}$."
+  },
+  {
+    "id": "1d8d9e3504c8c58a3b923ddc155c19b0",
+    "question": "What is the most famous constellation out of earth?",
+    "gold": "B",
+    "prediction": "B",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{B}$."
+  },
+  {
+    "id": "95acebea992a26c3a7c3bfb45845fa83",
+    "question": "If a reception is held with hotel guests walking by, what is the likely venue?",
+    "gold": "C",
+    "prediction": "D",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{D}$."
+  },
+  {
+    "id": "c2c2a387fd9a6a26cff636008de21f71",
+    "question": "What is a place that is far away from your house and where you could consume beer?",
+    "gold": "B",
+    "prediction": "C",
+    "raw_output": "C.keg"
+  },
+  {
+    "id": "57e96118fee6e2bbac5f59790fc833c0",
+    "question": "If a court case is dismissed after hearing testimony, what would be a likely cause?",
+    "gold": "A",
+    "prediction": "A",
+    "raw_output": "ĠAĊTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "b9b82aa4c236cd342ff95455b8516a42",
+    "question": "Sitting down quickly after eating beans could lead to what?",
+    "gold": "A",
+    "prediction": "A",
+    "raw_output": "ĠA.ĠflatulenceĊTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "41fac392c6a5827c1b6682d5d3798e59",
+    "question": "John was my neighbor, it was easy to talk to him. He was never what?",
+    "gold": "B",
+    "prediction": null,
+    "raw_output": "ĠJohnwasmyneighbor,itwaseasytotalktohim.Hew"
+  },
+  {
+    "id": "5c224410a40c9269b1e542cfcb430d35",
+    "question": "Where do people want to have a lot of coffee?",
+    "gold": "B",
+    "prediction": "D",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{D}$."
+  },
+  {
+    "id": "0b90c6710a65eb55fea4cc92895bf601",
+    "question": "You stop and have food all around you, what are you?",
+    "gold": "E",
+    "prediction": "C",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{C}$."
+  },
+  {
+    "id": "70af2b5df22ec96901350dfa3c9ee74f",
+    "question": "James was meeting a friend.  They had planed a slow day. They didn't want to do much.  They just wanted what?",
+    "gold": "A",
+    "prediction": "A",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "f9243ef9f0037657c337d3c6a9832f05",
+    "question": "The car's steering seem quite loose, but he still considered purchasing it because he needed something small and what?",
+    "gold": "D",
+    "prediction": "D",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{D}$."
+  },
+  {
+    "id": "27f2074270ea8a5e8f5ec2a017ec4a50",
+    "question": "Dan was a farmer with just one heifer.  But that was okay, he only kept her for milk, and he didn't think he'd find good farmland in a place as cold as where?",
+    "gold": "C",
+    "prediction": "A",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "63b3652d54c8c0e571f6bb50de318bf0",
+    "question": "It's Friday night and Alice puts off going to bed because she plans on doing what Saturday?",
+    "gold": "B",
+    "prediction": null,
+    "raw_output": "ĠAliceĠisĠplanningĠtoĠdoĠsomethingĠonĠSaturday,ĠnotĠonĠFriday.ĠTheĠanswerĠis"
+  },
+  {
+    "id": "0843c51212a3c2eee660fab5648c9e19",
+    "question": "His phone was dead and they couldn't find the expressway, he opened up the glove compartment and handed his passenger the what to navigate?",
+    "gold": "C",
+    "prediction": "C",
+    "raw_output": "ĠC.map"
+  },
+  {
+    "id": "1b3d286458a7e7f069222de0376d06da",
+    "question": "What would someone use a personal key for?",
+    "gold": "C",
+    "prediction": "A",
+    "raw_output": "ĠA.ĠcarĠstandĊB.ĠhotelĊC.ĠownĠhomeĊD."
+  },
+  {
+    "id": "86e2aabfb9d401567f04d87a648ff776",
+    "question": "The cat kept pestering it's owner, it was that time of the day and it was what?",
+    "gold": "C",
+    "prediction": "E",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{E}$."
+  },
+  {
+    "id": "092c24369367b3c7457198f3ce160fe3",
+    "question": "Her voice lent her to the alto section, what group did she join?",
+    "gold": "C",
+    "prediction": "C",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{C}$."
+  },
+  {
+    "id": "cab9eea2a91b1bd5c0a01b11f594f154",
+    "question": "Where are you likely to find a Japanese restaurant not run by people from Japan?",
+    "gold": "A",
+    "prediction": "E",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{E}$."
+  },
+  {
+    "id": "6e77de03bee86d6c20780e14f00944d0",
+    "question": "Animals who have hair and don't lay eggs are what?",
+    "gold": "C",
+    "prediction": "C",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{C}$."
+  },
+  {
+    "id": "7f25dbab26165b3c8800c2733ca759d6",
+    "question": "John was an aristocratic fox hunter.  Where might he live?",
+    "gold": "B",
+    "prediction": "A",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "9024493a3edbaf555fda5b477e835bf5",
+    "question": "Where is a grape likely to be being fed to someone else?",
+    "gold": "E",
+    "prediction": "A",
+    "raw_output": "ĠA.fieldĊTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "fc59ab1a9e6d2b51126dd828d30e9167",
+    "question": "Some food can be stored at room temperature until you open it, then you should keep it in what?",
+    "gold": "D",
+    "prediction": "D",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{D}$."
+  },
+  {
+    "id": "5a50ea4bb2d13dc4f620ebd45025d445",
+    "question": "Sam couldn't get back to sleep because of a dream he had.  It was a what?",
+    "gold": "E",
+    "prediction": "E",
+    "raw_output": "ĠE.ĊTheĠanswerĠisĠĊE."
+  },
+  {
+    "id": "8becd2ee4e86258566a9c2b0e6d9544e",
+    "question": "If you're going to a party in a new town what are you hoping to make?",
+    "gold": "B",
+    "prediction": "C",
+    "raw_output": "ĠC"
+  },
+  {
+    "id": "2a21820a135e1a49883525c055c74a0b",
+    "question": "How is riding a bike getting it to move?",
+    "gold": "E",
+    "prediction": "E",
+    "raw_output": "Theansweris$\\boxed{E}$."
+  },
+  {
+    "id": "e5adfec0b5ba691ec752f9b5e0fb8084",
+    "question": "Where does one usually keep literature?",
+    "gold": "D",
+    "prediction": "B",
+    "raw_output": "ĠB.ownhomeĊTheĠanswerĠisĠ$\\boxed{B}$."
+  },
+  {
+    "id": "406e15b76269d20b5448a91648094291",
+    "question": "WHat type of keyboard is made up of one or more pipe divisions?",
+    "gold": "E",
+    "prediction": "C",
+    "raw_output": "C.Ġoffice"
+  },
+  {
+    "id": "9c596382ea15768f95b5ef9ceec191dc",
+    "question": "The bell rang, and the congregation began to what in to the church?",
+    "gold": "C",
+    "prediction": null,
+    "raw_output": "ĠThebellrang,andthecongregationbegantowhatintothe"
+  },
+  {
+    "id": "7a3d0c94438a5c8a09364aaebb848a2c",
+    "question": "James needed smooth sandpaper, but instead he got what type?",
+    "gold": "A",
+    "prediction": "C",
+    "raw_output": "ĠC.uneven"
+  },
+  {
+    "id": "1ef68db97654f30cd3701b942fadc934",
+    "question": "Where would you borrow furniture if you do not have any?",
+    "gold": "B",
+    "prediction": "B",
+    "raw_output": "B"
+  },
+  {
+    "id": "abb090bbc572be1016bcd5f261f28e76",
+    "question": "What must happen for an animal to and it's offspring to continue livng?",
+    "gold": "C",
+    "prediction": "C",
+    "raw_output": "C.reproducing.ĊTheĠanswerĠisĠ$\\boxed{C}$."
+  },
+  {
+    "id": "91f2532a832a35cba1b08a3c767be6da",
+    "question": "I want my wine stored in darkness, where should it go?",
+    "gold": "E",
+    "prediction": "A",
+    "raw_output": "ĠTheĠmoonĠisĠnotĠaĠgoodĠplaceĠforĠyourĠwine.ĠNeitherĠisĠtheĠmovies,"
+  },
+  {
+    "id": "f8544c9679d27b747dfad3b8d7aac87a",
+    "question": "If I want to open a steakhouse, what should I get first?",
+    "gold": "E",
+    "prediction": "D",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{D}$."
+  },
+  {
+    "id": "a7f423c1636ba9e36d18e381928c5dcc",
+    "question": "Sarah didn't like to play but she didn't want to be sedentary and bored, either, so she took up what?",
+    "gold": "C",
+    "prediction": null,
+    "raw_output": "ĠSarahdidn'tliketoplaybutshedidn'twantto"
+  },
+  {
+    "id": "e1d354cbfcd620e5dacf83c17746c4b3",
+    "question": "Joe found spiders while checking something outside.  What might that be?",
+    "gold": "D",
+    "prediction": "E",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{E}$."
+  },
+  {
+    "id": "53e1e50d204f6ad5a0f69429eadae82e",
+    "question": "What would you do if your date does not show up?",
+    "gold": "A",
+    "prediction": "A",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "48205cc84aab5e455b22e17c3cc7277d",
+    "question": "What did the adult do before the job interview?",
+    "gold": "B",
+    "prediction": null,
+    "raw_output": "ĠTheĠadultĠdressedĠherselfĠbeforeĠtheĠjobĠinterview.ĊTheĠanswerĠisĠ$\\boxed{"
+  },
+  {
+    "id": "0f7419d25337e0a75503a015ae777905",
+    "question": "Most items in retail stores are what even when they are on sale?",
+    "gold": "A",
+    "prediction": "A",
+    "raw_output": "ĠA.overpriced.TheanswerisA."
+  },
+  {
+    "id": "5cac4da628f0a58db980649079bd5784",
+    "question": "John farms anemone in what type of facility?",
+    "gold": "D",
+    "prediction": "D",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{D}$."
+  },
+  {
+    "id": "78d1218aeff70a70904767349e3c4c53",
+    "question": "Brawn opened the curtains so that the sun could do what?",
+    "gold": "C",
+    "prediction": "C",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{C}$."
+  },
+  {
+    "id": "cce13a32fedb997c017d3fac87c34912",
+    "question": "How might releasing energy that has built up feel?",
+    "gold": "B",
+    "prediction": "E",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{E}$."
+  },
+  {
+    "id": "6714487b839f648e348ac972ed114af3",
+    "question": "What would you do if you have curiosity but are blind and paralyzed?",
+    "gold": "B",
+    "prediction": "E",
+    "raw_output": "ĠE.ĠSeefavoriteshowĠisĠtheĠbestĠoption.ĊTheĠanswerĠis"
+  },
+  {
+    "id": "3e536d9253bfac45de83e8ee291ca143",
+    "question": "Where might it be hard to get furniture to?",
+    "gold": "B",
+    "prediction": "A",
+    "raw_output": "ĠAĊTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "9f830faa0f8e3d7fb3a658c15a5fbe63",
+    "question": "A great teacher can be what when you are attending school?",
+    "gold": "D",
+    "prediction": "D",
+    "raw_output": "D.inspiration"
+  },
+  {
+    "id": "bbcef409e0acb71b515acc144d5b402c_1",
+    "question": "Where would you get jeans and other wearable items to take home with you?",
+    "gold": "D",
+    "prediction": "D",
+    "raw_output": "ĠD.ĠclothingĠstoreĊTheĠanswerĠisĠ$\\boxed{D}$."
+  },
+  {
+    "id": "cbb0c9a69ca0922371a48177087ef407",
+    "question": "In what substance do clouds float?",
+    "gold": "C",
+    "prediction": "C",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{C}$."
+  },
+  {
+    "id": "b92f786638796fc028947ac0e9a44fef",
+    "question": "Where is the large area location of the empire state building?",
+    "gold": "E",
+    "prediction": "A",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "5abeb4a2126597d4ef7b5a32e9e22abf",
+    "question": "Where do most people make coffee?",
+    "gold": "E",
+    "prediction": "A",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "8d4b0312f02be445e09a9462873d02bb",
+    "question": "What kind of service is my body a part of when I'm no longer here?",
+    "gold": "D",
+    "prediction": "E",
+    "raw_output": "E.ĊTheĠanswerĠisĠĊE."
+  },
+  {
+    "id": "f7140f00ddd8d1c5d93b05ea32ad1fff",
+    "question": "Many people wanted to leave their country estates for row houses, what did they need to move to?",
+    "gold": "D",
+    "prediction": "E",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{E}$."
+  },
+  {
+    "id": "8b3b598a647dfd2d63fcedce5f461040",
+    "question": "Where can someone get a new saw?",
+    "gold": "A",
+    "prediction": "A",
+    "raw_output": "ĠAĊTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "7a900bc3a373806b6c56f0e19534005f",
+    "question": "What would you do to a crime scene before asking a question?",
+    "gold": "E",
+    "prediction": "C",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{C}$."
+  },
+  {
+    "id": "3d79c10ddf26a5ed7dc0bb168fb0b3ed",
+    "question": "The man didn't do great in college, all his best memories were late night with his brothers at the what?",
+    "gold": "B",
+    "prediction": "A",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "b7091d2bfcea421d787ce9e7982f104a",
+    "question": "In a horror movie victims usually trip when the run in order to do what in regards to the killer?",
+    "gold": "C",
+    "prediction": "A",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "d060ab71d0efff3cab5960089a6bb3a2",
+    "question": "The coach decided to make a lineup change, the team's effort was suffering from what?",
+    "gold": "B",
+    "prediction": "A",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "b399f6008d90dbd92bcce5abed4c1fd1",
+    "question": "Where would you go if you want to buy some clothes?",
+    "gold": "A",
+    "prediction": "A",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "80c19c62338edae0e8a1f5c6fec0d29a",
+    "question": "Where is food likely to stay dry?",
+    "gold": "B",
+    "prediction": "C",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{C}$."
+  },
+  {
+    "id": "1a4e83b433620cb2d7d806882f8d57e4",
+    "question": "What is it called when a person with mental illness is able to lead a relatively normal life?",
+    "gold": "A",
+    "prediction": "E",
+    "raw_output": "ĠE.ĠIllusion"
+  },
+  {
+    "id": "b9e04a53c0ee7325b901de4d12d56884",
+    "question": "Where do you keep musical instrument so it doesn't get scratched?",
+    "gold": "C",
+    "prediction": "D",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{D}$."
+  },
+  {
+    "id": "7490aa460f66000555a8a94008179cbb",
+    "question": "The woman is watching television and trying to forget her day, what is her goal?",
+    "gold": "E",
+    "prediction": null,
+    "raw_output": "ĠTheĠwomanĠisĠwatchingĠtelevisionĠandĠtryingĠtoĠfigureĠoutĠwhatĠherĠgoalĠis.ĠHer"
+  },
+  {
+    "id": "ad8ee2965a33ff4b0e3d2ac732676594",
+    "question": "While John Candy and Dan Aykroyd didn't run into a gazelle, you'd have to go where to see one?",
+    "gold": "E",
+    "prediction": "E",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{E}$."
+  },
+  {
+    "id": "64d2310eff6b661baeb41b4ccc392e35",
+    "question": "When we are running what are we doing?",
+    "gold": "D",
+    "prediction": "D",
+    "raw_output": "DĊAnswer:ĠDĊRunningĠisĠtheĠactionĠofĠmovingĠforwardĠorĠbackward."
+  },
+  {
+    "id": "6b1f5ebd9d0dbc7e34a598456a6091a8",
+    "question": "It's dangerous to let pet birds free so it's better to keep them what?",
+    "gold": "C",
+    "prediction": "C",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{C}$."
+  },
+  {
+    "id": "080ef6941410139d6869e78122bc741e",
+    "question": "A beaver is know for building prowess, their supplies come from where?",
+    "gold": "C",
+    "prediction": "C",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{C}$."
+  },
+  {
+    "id": "6c70d98cfb8e97fda8caefcee761a229",
+    "question": "Zane doesn't like answering questions.  He's not good at it because he suffers from what?",
+    "gold": "D",
+    "prediction": null,
+    "raw_output": "ĠZanedoesn'tlikeansweringquestions.He'snotgood"
+  },
+  {
+    "id": "75ac594b4fdbfba006e61315d1b2c815",
+    "question": "Going public about a common problem can gain what for a celebrity?",
+    "gold": "A",
+    "prediction": "E",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{E}$."
+  },
+  {
+    "id": "5a8e7d2f97f76adb23fbd59a009d16f0",
+    "question": "The electricity went out and everyone was shrouded in darkness.  They all remained in their seats, because it would have been dangerous to try to find there way out.  Where mihgt they have been?",
+    "gold": "A",
+    "prediction": "C",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{C}$."
+  },
+  {
+    "id": "178cb8153123716aa94f286b615149d4",
+    "question": "Where could you find hundreds of beauty salon?",
+    "gold": "D",
+    "prediction": "B",
+    "raw_output": "ĠThebeautysalonislocatedinmall.CorrectAnswer:B"
+  },
+  {
+    "id": "cc917ca0e03c91a5141920f5a902a36c",
+    "question": "If it is Chrismas time what came most recently before?",
+    "gold": "A",
+    "prediction": "A",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "a7d51b753c2113d8b2dbd0ebb5375855_1",
+    "question": "If someone found out their brother was having a daughter, they would have to add a niece limb to the what?",
+    "gold": "D",
+    "prediction": "A",
+    "raw_output": "ĠTheĠbabyĠshowerĠisĠaĠpartyĠgivenĠbyĠtheĠparentsĠofĠtheĠbabyĠtoĠcelebrateĠthe"
+  },
+  {
+    "id": "e71da9e95b321763c86e879a47bbd327",
+    "question": "The criminal insisted he must do the crime to the bank teller, but she tried to convince him there were other ways in life and this was what?",
+    "gold": "E",
+    "prediction": null,
+    "raw_output": "ĠThecriminalinsistedhemustdothecrimetothebankteller,butshe"
+  },
+  {
+    "id": "ec86900559a0faf2aef066e511a4cfa6",
+    "question": "what do you fill with ink to write?",
+    "gold": "B",
+    "prediction": "B",
+    "raw_output": "B.Ġfountainpen"
+  },
+  {
+    "id": "d312741df1b14bcbe358f4f30aff3994",
+    "question": "He walked into the room and had a great shock, his friends had what him?",
+    "gold": "E",
+    "prediction": "C",
+    "raw_output": "ĠC.calmĊTheĠanswerĠisĠĊC"
+  },
+  {
+    "id": "0df3f58645b4bc306093845fb297a50e",
+    "question": "He wasn't the hugging type, even when he meet friend he'd just do what?",
+    "gold": "E",
+    "prediction": "E",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{E}$."
+  },
+  {
+    "id": "27d9b4df2ca50112d282331df4923e96",
+    "question": "If you were lost you might need a map, the best place to find one on the road is at any what?",
+    "gold": "E",
+    "prediction": "A",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "ab755203f41a2e241f0ee8a53c54f287",
+    "question": "Where would you put a net if you wanted to use it?",
+    "gold": "D",
+    "prediction": "A",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "f13efb91090dd28fd2b3c1f4dde680fd",
+    "question": "Sage loved communicating  He liked doing what with his peers?",
+    "gold": "A",
+    "prediction": "A",
+    "raw_output": "ĠA.exchangingideasĊTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "e98031901c815e55040d9fe28c4d9387",
+    "question": "Where would a cat snuggle up with their human?",
+    "gold": "D",
+    "prediction": "C",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{C}$."
+  },
+  {
+    "id": "fb64149cf01c5b496d986f56852273e9",
+    "question": "What is a place that has large cable hanging overhead?",
+    "gold": "D",
+    "prediction": "D",
+    "raw_output": "D.substation"
+  },
+  {
+    "id": "2ac72eaf30a633c410b1bd658bbef0ba",
+    "question": "Where do cars usually travel at very high speeds?",
+    "gold": "C",
+    "prediction": "C",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{C}$."
+  },
+  {
+    "id": "22fc45d9e6d0baea4a5b0526504225b8",
+    "question": "What might a person be watching if they see a man with a suitcase full of money?",
+    "gold": "B",
+    "prediction": "D",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{D}$."
+  },
+  {
+    "id": "4ef3d70648ee3cea028bc5ed0fdfda28",
+    "question": "Eating breakfast in bed while seeing a homeless person shivering outside your window may cause you to what?",
+    "gold": "C",
+    "prediction": "A",
+    "raw_output": "ĠEatingĠbreakfastĠinĠbedĠwhileĠseeingĠaĠhomelessĠpersonĠshiveringĠoutsideĠyourĠwindowĠmayĠcauseĠyou"
+  },
+  {
+    "id": "059155c50d1b04da7373e309868e67d2",
+    "question": "If I put in my key and open a hinged door, where am I likely entering?",
+    "gold": "C",
+    "prediction": "C",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{C}$."
+  },
+  {
+    "id": "33d023a6806390eb8195380331e17404_1",
+    "question": "If somebody is working at a reception desk, they are located at the front entrance of the what?",
+    "gold": "C",
+    "prediction": "D",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{D}$."
+  },
+  {
+    "id": "63f7ad481a63fc8c6dffe00519d4a167",
+    "question": "If you're reading a newspaper from another country what are you doing?",
+    "gold": "A",
+    "prediction": "A",
+    "raw_output": "ĠA.learningaboutworldĊAnswer:ĠA"
+  },
+  {
+    "id": "a2daf73d33541af0846673afd8e49abe",
+    "question": "They wanted to recognize his accomplishment, where should they put his name?",
+    "gold": "A",
+    "prediction": "E",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{E}$."
+  },
+  {
+    "id": "7d70208061ae3185bcfc9e912ee9e141",
+    "question": "What is it called when a person tends to leave things to the last minute?",
+    "gold": "A",
+    "prediction": "A",
+    "raw_output": "ĠA.procrastinate.ĊTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "9003c4748b08d5a734747e499599ff20",
+    "question": "What will you do if you do not want to settle in one place?",
+    "gold": "C",
+    "prediction": "C",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{C}$."
+  },
+  {
+    "id": "28aac6d39cdd270d2a6a28e1985484cb",
+    "question": "Where would a person live that isn't in the metro area but still has good schools?",
+    "gold": "C",
+    "prediction": "C",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{C.suburbs}$."
+  },
+  {
+    "id": "8bdbb8caefcc607a9ec7579aa0c87cba",
+    "question": "Jane works for the government as a senator, where does she spend a lot of time?",
+    "gold": "A",
+    "prediction": "A",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "95a85df48902d23eb3fda25a99fca1a0",
+    "question": "What is it called when two people in love have children?",
+    "gold": "B",
+    "prediction": "B",
+    "raw_output": "ĠB.Ġprocreate.ĊTheĠanswerĠisĠ$\\boxed{B}$."
+  },
+  {
+    "id": "79c3378b7660d328902d7c0ad442a37f",
+    "question": "What did the policemen do when they heard a cry from a distance?",
+    "gold": "E",
+    "prediction": "E",
+    "raw_output": "TheĠanswerĠisĠ$\\boxed{E}$."
+  },
+  {
+    "id": "8c12e5864463cfcd03f4d0ab67949d01",
+    "question": "It takes ambition to complete a job, but the first step is to what?",
+    "gold": "B",
+    "prediction": "B",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{B}$."
+  },
+  {
+    "id": "e145618c2062eb9ea8928fdb0d42185e",
+    "question": "Where would I not want a fox?",
+    "gold": "A",
+    "prediction": "A",
+    "raw_output": "ĠAĊTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "35872be88df5f6c4a6600020266a5458",
+    "question": "What type of building has the most top floor?",
+    "gold": "C",
+    "prediction": "C",
+    "raw_output": "C.tallbuilding"
+  },
+  {
+    "id": "055817d8d703d3c2802545e3fccdcde3",
+    "question": "What do humans do to other humans after death?",
+    "gold": "B",
+    "prediction": "A",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "5ef6cdb85468df482e3aa6fa339d6e41",
+    "question": "Where can you find a restaurant's phone number?",
+    "gold": "A",
+    "prediction": "A",
+    "raw_output": "ĠAĊAnswer:ĠA"
+  },
+  {
+    "id": "1e939cc6fef999953d692b57caab254b",
+    "question": "What would you put coins into to make it work?",
+    "gold": "B",
+    "prediction": "A",
+    "raw_output": "ĠAĊTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "3a3b5d4a517ef70d25eb558f1a622937",
+    "question": "A patriotic guy with a camera is looking for a bald eagle, what is he likely to do with the eagle if he finds one?",
+    "gold": "E",
+    "prediction": "E",
+    "raw_output": "E.ĠTheĠeagleĠisĠaĠsymbolĠofĠfreedomĠandĠtheĠguyĠisĠlookingĠforĠone"
+  },
+  {
+    "id": "a943522f7d407cef369d5d3f1bf48589",
+    "question": "Where can you go to use a piano in your neighborhood if you don't have one?",
+    "gold": "C",
+    "prediction": "C",
+    "raw_output": "ĠC.neighbor'shouseĊExplanation:ĠIfĠyouĠdon'tĠhaveĠa"
+  },
+  {
+    "id": "57a343d72031b668e5eb91868420e915",
+    "question": "Where would you get a shower curtain if you do not have one?",
+    "gold": "A",
+    "prediction": "A",
+    "raw_output": "ĠAĊTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "c4b1a57e7880b9cb367f9c67abf5605f",
+    "question": "Kissing is normally an activity reserved for your romantic what?",
+    "gold": "B",
+    "prediction": "B",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{B}$."
+  },
+  {
+    "id": "e313d7967f72c2b880213daaaf4b7181",
+    "question": "What does a child learn to do before school?",
+    "gold": "C",
+    "prediction": "A",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "3c7992df7fda23bcdeacb1f1f6b73448",
+    "question": "He was getting advice for the job interview, they told him when talking to the interviewer always make what?",
+    "gold": "C",
+    "prediction": "C",
+    "raw_output": "ĠC.eyecontact"
+  },
+  {
+    "id": "d6644eacdb543a60545d2eb1ac7e6dbd",
+    "question": "According to what book did an apple tree lead to the downfall of man?",
+    "gold": "A",
+    "prediction": "A",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "d1ad9b79f54205b6b9ac19a27f9c2be5",
+    "question": "The neighborhood had a great sense of community, there was always a crowd at the landing of the what?",
+    "gold": "E",
+    "prediction": "D",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{D}$."
+  },
+  {
+    "id": "f116ee6620c0f171e5db54bc03a5f2e2",
+    "question": "What might a kind person do?",
+    "gold": "C",
+    "prediction": "A",
+    "raw_output": "ĠAĊTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "ea82f9e938cbfce85fb498ce46264253",
+    "question": "What will a person do at work?",
+    "gold": "C",
+    "prediction": "A",
+    "raw_output": "ĠA.crossstreetĊAnswer:ĠA"
+  },
+  {
+    "id": "edbb57ac2f476679ae547f75ec2bef3e",
+    "question": "John saw a fox running along the beach and was glad to be on the east coast.  Where might he have been?",
+    "gold": "B",
+    "prediction": "B",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{B}$."
+  },
+  {
+    "id": "07a99d5f2ca7028febeb9f09604b36c8",
+    "question": "Name a location where you would not want to find mice.",
+    "gold": "B",
+    "prediction": "A",
+    "raw_output": "ĠAĊTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "b42ef8be1748c19fa5938de5396f8fad",
+    "question": "The man started to learn jogging, what was he hoping to do?",
+    "gold": "B",
+    "prediction": "B",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{B}$."
+  },
+  {
+    "id": "236691d38665d7bcdd0c9b9834252a51",
+    "question": "Where do most people turn to get information on their phones?",
+    "gold": "D",
+    "prediction": "A",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "8ef78abb86fc282ccb02bbc495f13030",
+    "question": "What happens to a body after death?",
+    "gold": "D",
+    "prediction": "D",
+    "raw_output": "D.decompositionĊTheĠanswerĠisĠ$\\boxed{D}$."
+  },
+  {
+    "id": "313d033c33ec475e04e628f87c5686bd",
+    "question": "What type of non-vegetarian soup is one likely to find a potato?",
+    "gold": "C",
+    "prediction": "A",
+    "raw_output": "ĠA.beefstew.ĠExplanatoryĠAnswer:ĠTheĠquestionĠisĠa"
+  },
+  {
+    "id": "d581e0ad6a4c89465dc1a527bd2d3f77",
+    "question": "Though she had a disability, what did her encouraging and positive coach see in her?",
+    "gold": "E",
+    "prediction": "E",
+    "raw_output": "ĠE.ĠpotentialĊTheĠanswerĠisĠ$\\boxed{E}$."
+  },
+  {
+    "id": "f232bfea2a7611999688a252e476c040",
+    "question": "They had a theory of what they could do in t he big game, so over and over they would what?",
+    "gold": "B",
+    "prediction": "A",
+    "raw_output": "ĠTheyĠhadĠaĠtheoryĠofĠwhatĠtheyĠcouldĠdoĠinĠtheĠbigĠgame,ĠsoĠover"
+  },
+  {
+    "id": "91756d8e475d8d59fa0a4e35f408e366",
+    "question": "When you see something rise, you are where in relation to it?",
+    "gold": "D",
+    "prediction": "D",
+    "raw_output": "WhenĠyouĠseeĠsomethingĠrise,ĠyouĠareĠbelowĠit.ĊAnswer:ĠD"
+  },
+  {
+    "id": "866ea9c668c0b42df19fa20865e31f77",
+    "question": "They were getting ready for a really long hike, he put the food can in his what?",
+    "gold": "D",
+    "prediction": "D",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{D}$."
+  },
+  {
+    "id": "22015315e7ff79386877828b4fa27799",
+    "question": "Where would you keep a rug near your front door?",
+    "gold": "D",
+    "prediction": "D",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{D}$."
+  },
+  {
+    "id": "484f6e4fb8e6431b010c299490b72e3c",
+    "question": "When you slip from a ladder propped on anything what will you do?",
+    "gold": "B",
+    "prediction": "B",
+    "raw_output": "B.falldown"
+  },
+  {
+    "id": "7322d0dcf2e27c7032626a3639f5696b",
+    "question": "What do you do when you need to get food?",
+    "gold": "E",
+    "prediction": "A",
+    "raw_output": "ĠA.tableĊTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "0519b0b0869681c2884f53dbfa43e538",
+    "question": "Brad tried to arise from bed but he could not.  Instead, he just continued to do what?",
+    "gold": "C",
+    "prediction": null,
+    "raw_output": "ĠBradĠtriedĠtoĠriseĠfromĠbedĠbutĠheĠcouldĠnot.ĠInstead,ĠheĠjustĠcontinued"
+  },
+  {
+    "id": "1ab04c0501b815b2a48f2581f04215a8",
+    "question": "If a heifer is really high quality, you might take her where?",
+    "gold": "C",
+    "prediction": "C",
+    "raw_output": "C"
+  },
+  {
+    "id": "7776b10c7bb96f3fe5e026678673634d",
+    "question": "What do people want to acquire from opening business?",
+    "gold": "B",
+    "prediction": "C",
+    "raw_output": "ĠC.bankruptcy"
+  },
+  {
+    "id": "f7c005244d406b9bde48dc8c22003af1",
+    "question": "What has someone who had finished their undergraduate done?",
+    "gold": "A",
+    "prediction": "A",
+    "raw_output": "AĊGraduatedĊTheĠanswerĠisĠ$\\boxed{A}$."
+  },
+  {
+    "id": "88501d528c855e2b533b3fea2f86183d",
+    "question": "Where are bus stops more common in what parts?",
+    "gold": "D",
+    "prediction": "D",
+    "raw_output": "ĠD.urbanarea.ĊTheĠanswerĠisĠ$\\boxed{D}$."
+  },
+  {
+    "id": "3d9c3253e24fb108cea9083e8a853cf2",
+    "question": "Bill wanted to pick up a stranger, preferably a responsible one with kids.  Where might he look for one?",
+    "gold": "D",
+    "prediction": "A",
+    "raw_output": "ĠBillĠmightĠlookĠforĠaĠresponsibleĠstrangerĠwithĠkidsĠatĠaĠtrainĠstation.ĊThe"
+  },
+  {
+    "id": "9808782b2e2e1bfbfa27c41e605bfffe",
+    "question": "Where might a lemur frolic in the market?",
+    "gold": "C",
+    "prediction": "C",
+    "raw_output": "ĠTheĠanswerĠisĠ$\\boxed{C}$."
+  },
+  {
+    "id": "c432b860fcd7297751ff5254ec4a7956",
+    "question": "What might I place under the furniture?",
+    "gold": "A",
+    "prediction": "A",
+    "raw_output": "ĠA.rugĊTheĠanswerĠisĠ$\\boxed{A}$."
+  }
+]

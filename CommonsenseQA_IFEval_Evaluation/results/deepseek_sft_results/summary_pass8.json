@@ -1,0 +1,13 @@
+{
+  "model": "deepseek-ai/deepseek-math-7b-instruct",
+  "display_name": "DeepSeek-Math-7B-Instruct",
+  "stage": "SFT / Instruct",
+  "num_samples": 8,
+  "commonsenseqa": {
+    "split": "validation",
+    "num_examples": 200,
+    "pass_at_1_sample0_accuracy": 0.3,
+    "pass_at_8_accuracy": 0.74,
+    "any_sample_parse_rate": 1.0
+  }
+}

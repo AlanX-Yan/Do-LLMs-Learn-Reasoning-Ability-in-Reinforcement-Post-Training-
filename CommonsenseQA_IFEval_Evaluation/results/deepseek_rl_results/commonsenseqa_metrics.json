@@ -1,0 +1,10 @@
+{
+  "model": "deepseek-ai/deepseek-math-7b-rl",
+  "display_name": "DeepSeek-Math-7B-RL",
+  "stage": "RL / GRPO",
+  "benchmark": "CommonsenseQA",
+  "split": "validation",
+  "num_examples": 500,
+  "pass_at_1_accuracy": 0.392,
+  "parse_rate": 0.89
+}
